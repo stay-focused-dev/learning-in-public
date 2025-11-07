@@ -42,3 +42,13 @@ Time spent: 31 minutes
 Links:
 - https://go.dev/doc/code
 - https://github.com/stay-focused-dev/go-hello
+
+
+## Friday. Session 3
+
+I watched Rob Pike's video "Go Concurrency Patterns" that was recommended in "A Tour of Go". It reminded me of a saying about Erlang and its capabilities - something like 'we can make hard things easy and impossible things possible'.
+
+Time spent: 84 minutes
+Links:
+- https://www.youtube.com/watch?v=f6kdp27TYZs
+- https://github.com/stay-focused-dev/go-concurrency-patterns/tree/v1
