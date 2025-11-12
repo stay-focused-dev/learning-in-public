@@ -1,0 +1,16 @@
+## Wednesday. Session 1
+
+I watched Sameer Ajmani's video from Google I/O 2013 "Advanced Go Concurrency Patterns". He built a simple RSS client and showed how to avoid some bugs in a naive implementation. He emphasized:
+
+- possible data races from concurrent mutation of shared state
+- unresponsive behaviour when doing I/O or sleeping before the next event
+- possible deadlocks when a channel is closed and a goroutine tries to send to it
+
+I was fascinated by these examples especially by "chan chan error" and how we can make our code simpler (without nested cases) using select and message passing. 
+
+It was a 34-minute video, but I had to spend a lot of effort to grasp these ideas. I watched the video for the first time, then implemented the functionality, understood some details, and then watched the video again. Now I feel like I understand it.
+
+Time spent: 215 minutes
+Links:
+- https://www.youtube.com/watch?v=QDDwwePbDtw
+- https://github.com/stay-focused-dev/go-concurrency-patterns/commit/a8c8affff253acf1a75e1691834df1116a4e35dc
