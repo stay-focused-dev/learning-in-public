@@ -14,3 +14,21 @@ Time spent: 215 minutes
 Links:
 - https://www.youtube.com/watch?v=QDDwwePbDtw
 - https://github.com/stay-focused-dev/go-concurrency-patterns/commit/a8c8affff253acf1a75e1691834df1116a4e35dc
+
+
+## Friday. Session 1
+
+
+I decided to dive into one of the popular Go projects on GitHub and found Traefik interesting. The project provides a getting-started page where two services run using Docker Compose:
+
+- Traefik
+- whoami (a simple HTTP server)
+
+Traefik automatically discovers the whoami service and configures it so I can curl some of the whoami endpoints.
+
+Then I thought: building a webserver is a typical programming task—it would be nice to collect tasks like this in my own library. When I learn a new language, I can use these exercises to learn the basics of the language and its ecosystem. So I created a repo for such exercises and added a whoami-like service exercise to it.
+
+Time spent: 91 minutes
+Links:
+- https://github.com/traefik/whoami
+- https://github.com/stay-focused-dev/exercise-library/commit/91bd285d6fab4d6d5002feac9fbb0e391fcc4a31
