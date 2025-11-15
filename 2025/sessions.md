@@ -1,0 +1,125 @@
+# Week 44
+
+## Saturday. Session 1
+
+I am learning Go again. I have some experience with it, but that was a while back. I want to refresh my knowledge of the language and its ecosystem before diving into more mature projects. I asked Claude for resources, and he recommended starting with "A Tour of Go". Since I learn better by writing code than just reading, I'm going to work through all the examples in the book, not just the exercises.
+
+Time spent: 72 minutes
+Links:
+- https://github.com/stay-focused-dev/tour-of-go/tree/v2025.44.6.1
+
+
+## Sunday. Session 1
+
+Read a few chapters on slices and maps in Go.
+
+Time spent: 62 minutes
+Links:
+- https://github.com/stay-focused-dev/tour-of-go/commit/80539bafb4ad98ed6aa1a41adfc55280a7982c06
+
+
+# Week 45
+
+## Monday. Session 1
+
+Read a few chapters on methods and interfaces in Go.
+
+Time spent: 101 minutes
+Links:
+- https://github.com/stay-focused-dev/tour-of-go/commit/ed8830e19ed11405d3c3aa27089ab6d55c216e6d
+
+
+## Wednesday. Session 1
+
+Read a few chapters on interfaces and generics in Go.
+
+Time spent: 72 minutes
+Links:
+- https://github.com/stay-focused-dev/tour-of-go/commit/501402823301549e151b1c74c6e5f10628531528
+
+
+## Wednesday. Session 2
+
+Read a few chapters on channels in Go.
+
+Time spent: 43 minutes
+Links:
+- https://github.com/stay-focused-dev/tour-of-go/commit/28b4aefb5550289f94a8f1337962dd8be10b9d02
+
+
+## Friday. Session 1
+
+I've just finished 'A Tour of Go', so now I'll read through the articles it recommended.
+
+Time spent: 27 minutes
+Links:
+- https://github.com/stay-focused-dev/tour-of-go/commit/31a44b69c404ac26f8652312beac8b0ae8c14d57
+
+
+## Friday. Session 2
+
+I read the article "How to Write Go Code", which was recommended in "A Tour of Go" for learning how to organize and work with code.
+
+Time spent: 31 minutes
+Links:
+- https://go.dev/doc/code
+- https://github.com/stay-focused-dev/go-hello
+
+
+## Friday. Session 3
+
+I watched Rob Pike's video "Go Concurrency Patterns" that was recommended in "A Tour of Go". It reminded me of a saying about Erlang and its capabilities - something like 'we can make hard things easy and impossible things possible'.
+
+Time spent: 84 minutes
+Links:
+- https://www.youtube.com/watch?v=f6kdp27TYZs
+- https://github.com/stay-focused-dev/go-concurrency-patterns/tree/v1
+
+
+# Week 46
+
+## Wednesday. Session 1
+
+I watched Sameer Ajmani's video from Google I/O 2013 "Advanced Go Concurrency Patterns". He built a simple RSS client and showed how to avoid some bugs in a naive implementation. He emphasized:
+
+- possible data races from concurrent mutation of shared state
+- unresponsive behaviour when doing I/O or sleeping before the next event
+- possible deadlocks when a channel is closed and a goroutine tries to send to it
+
+I was fascinated by these examples especially by "chan chan error" and how we can make our code simpler (without nested cases) using select and message passing. 
+
+It was a 34-minute video, but I had to spend a lot of effort to grasp these ideas. I watched the video for the first time, then implemented the functionality, understood some details, and then watched the video again. Now I feel like I understand it.
+
+Time spent: 215 minutes
+Links:
+- https://www.youtube.com/watch?v=QDDwwePbDtw
+- https://github.com/stay-focused-dev/go-concurrency-patterns/commit/a8c8affff253acf1a75e1691834df1116a4e35dc
+
+
+## Friday. Session 1
+
+
+I decided to dive into one of the popular Go projects on GitHub and found Traefik interesting. The project provides a getting-started page where two services run using Docker Compose:
+
+- Traefik
+- whoami (a simple HTTP server)
+
+Traefik automatically discovers the whoami service and configures it so I can curl some of the whoami endpoints.
+
+Then I thought: building a webserver is a typical programming task—it would be nice to collect tasks like this in my own library. When I learn a new language, I can use these exercises to learn the basics of the language and its ecosystem. So I created a repo for such exercises and added a whoami-like service exercise to it.
+
+Time spent: 91 minutes
+Links:
+- https://github.com/traefik/whoami
+- https://github.com/stay-focused-dev/exercise-library/commit/91bd285d6fab4d6d5002feac9fbb0e391fcc4a31
+
+
+
+## Saturday. Session 1
+
+I tried LeetCode for the first time. I watched some beginner videos that introduce the UI, then solved one of the problems (very easy, to be honest). It was an interesting experience - the task was very easy, but I felt like a super guru! I like this feeling of a small victory.
+ 
+Time spent: 81 minutes
+Links:
+- https://leetcode.com/problems/two-sum/description/
+- https://github.com/stay-focused-dev/leetcode/commit/705c21790a0ce66cb4e4958d4ae7d66274222722
