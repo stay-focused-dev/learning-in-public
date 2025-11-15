@@ -123,3 +123,13 @@ Time spent: 81 minutes
 Links:
 - https://leetcode.com/problems/two-sum/description/
 - https://github.com/stay-focused-dev/leetcode/commit/705c21790a0ce66cb4e4958d4ae7d66274222722
+
+
+## Saturday. Session 2
+
+I solved the LeetCode problem 'Add Two Numbers' (you're given two linked lists representing numbers, and you need to sum them and return the result as a linked list). I'm not yet in the habit of writing tests in Go, working with pointer-based structures like linked lists, or writing methods like `String()` for custom types. It takes some extra time right now. I believe that later these techniques will be at my fingertips and won't take nearly as much time.
+
+Time spent: 55 minutes
+Links:
+- https://leetcode.com/problems/add-two-numbers/
+- https://github.com/stay-focused-dev/leetcode/commit/7df26e1bd3a990c7c25fd64ad41adc9f1e834051
