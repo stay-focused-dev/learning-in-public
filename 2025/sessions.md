@@ -133,3 +133,21 @@ Time spent: 55 minutes
 Links:
 - https://leetcode.com/problems/add-two-numbers/
 - https://github.com/stay-focused-dev/leetcode/commit/7df26e1bd3a990c7c25fd64ad41adc9f1e834051
+
+
+# Week 47
+
+## Wednesday. Session 1
+
+I have a pet project written in Rust that helps me with EVE Online. It lets me check my assets, especially mutated items—the game doesn't have a proper interface for finding mutated items with specific stats. I've written a lot of code for this project but only just pushed it to GitHub today. While this project might seem like a small toy, it actually has a surprisingly robust feature set typical of production applications, including:
+
+- Saga-based background jobs
+- request tracing
+- structured logging
+- comprehensive error handling
+- real-time frontend communication via WebSockets
+- and more
+
+Time spent: 125 minutes
+Links:
+- https://github.com/stay-focused-dev/rust-eve-tools/commit/33b17835560d9093ffb266eb76bf49a7bff3e9e0
