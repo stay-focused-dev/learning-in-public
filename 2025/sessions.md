@@ -162,3 +162,16 @@ Links:
 - https://leetcode.com/problems/median-of-two-sorted-arrays/
 - https://github.com/stay-focused-dev/leetcode/commit/1f504f9356a21d0d13b5db87c25ee5269270957e
 - https://github.com/stay-focused-dev/leetcode/commit/6c1c6cf37159a52471882f11d6c200e001c53556
+
+
+# Week 48
+
+## Monday. Session 1
+
+I solved a medium LeetCode problem. It was straightforward once I understood the approach.
+
+Time spent: 50 minutes
+Links:
+
+- https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+- https://github.com/stay-focused-dev/leetcode/commit/71f721632f4618a1a55e35fa4bbea9854afb5bdd
