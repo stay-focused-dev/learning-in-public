@@ -189,3 +189,10 @@ Links:
 
 ## Wednesday. Session 2
 
+Then I asked Claude about the optimal solution. It told me about a more effective approach than mine, which I implemented right away. I was blown away when it mentioned a solution with linear complexity—I'll implement that once I fully understand the idea!
+
+Time spent: 42 minutes
+Links:
+
+- https://leetcode.com/problems/longest-palindromic-substring/
+- https://github.com/stay-focused-dev/leetcode/commit/a67105c989937f1a2f5f5b1cc583d70e71b586b6
