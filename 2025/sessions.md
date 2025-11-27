@@ -175,3 +175,17 @@ Links:
 
 - https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 - https://github.com/stay-focused-dev/leetcode/commit/71f721632f4618a1a55e35fa4bbea9854afb5bdd
+
+
+## Wednesday. Session 1
+
+I solved a medium LeetCode problem about finding the longest palindromic substring. The problem didn't seem interesting, so I didn't put much effort into it—I just wanted a working solution.
+
+Time spent: 31 minutes
+Links:
+
+- https://leetcode.com/problems/longest-palindromic-substring/
+- https://github.com/stay-focused-dev/leetcode/commit/7c1d60ab643a2ee6ac0a695e5c55516e44c1a1e5
+
+## Wednesday. Session 2
+
