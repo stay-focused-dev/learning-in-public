@@ -217,3 +217,14 @@ Links:
 
 - https://leetcode.com/problems/zigzag-conversion/
 - https://github.com/stay-focused-dev/leetcode/commit/52b47f052c9954356e1cb1d46f0130d61b70b8ea
+
+## Saturday. Session 2
+
+I solved the reverse integer problem from LeetCode.
+
+Time spent: 
+Links:
+
+- https://leetcode.com/problems/reverse-integer/
+- https://github.com/stay-focused-dev/leetcode/commit/aa1e816d8b922ffc8db37cb4c72917d6829576e9
+- https://github.com/stay-focused-dev/leetcode/commit/7c345d37d50d7a738b7b2aacb88dbe0a3dfbca52
