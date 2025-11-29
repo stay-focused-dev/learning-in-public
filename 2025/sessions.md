@@ -196,3 +196,15 @@ Links:
 
 - https://leetcode.com/problems/longest-palindromic-substring/
 - https://github.com/stay-focused-dev/leetcode/commit/a67105c989937f1a2f5f5b1cc583d70e71b586b6
+
+
+## Friday. Session 1
+
+I learned Manacher's algorithm in detail and implemented it. It turned out to be surprisingly simple to code once I understood the idea. The algorithm is very elegant.
+
+Time spent: 59 minutes
+Links:
+
+- https://leetcode.com/problems/longest-palindromic-substring/
+- https://github.com/stay-focused-dev/leetcode/commit/2c16493bae45bd8164ad0fb5b30efae38a1d2e70
+
