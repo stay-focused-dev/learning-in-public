@@ -208,3 +208,12 @@ Links:
 - https://leetcode.com/problems/longest-palindromic-substring/
 - https://github.com/stay-focused-dev/leetcode/commit/2c16493bae45bd8164ad0fb5b30efae38a1d2e70
 
+## Saturday. Session 1
+
+I solved the zigzag conversion problem from LeetCode. The problem itself was easy—you just need to work out the indices on paper. Ironically, this was my first LeetCode problem  where I didn't pass all tests initially. I've noticed that when problems seem obviously simple, I don't scrutinize edge cases carefully enough. That's definitely a lesson I need to internalize.
+
+Time spent: 43 minutes
+Links:
+
+- https://leetcode.com/problems/zigzag-conversion/
+- https://github.com/stay-focused-dev/leetcode/commit/52b47f052c9954356e1cb1d46f0130d61b70b8ea
