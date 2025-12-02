@@ -228,3 +228,17 @@ Links:
 - https://leetcode.com/problems/reverse-integer/
 - https://github.com/stay-focused-dev/leetcode/commit/aa1e816d8b922ffc8db37cb4c72917d6829576e9
 - https://github.com/stay-focused-dev/leetcode/commit/7c345d37d50d7a738b7b2aacb88dbe0a3dfbca52
+
+
+# Week 49
+
+## Monday. Session 1
+
+I solved the LeetCode problem 'Merge k Sorted Lists'. One of the obvious approaches to me was the min-heap one—I implemented it. I was pleasantly surprised that Go's standard library includes heap support.
+
+Time spent:
+Links:
+
+- https://leetcode.com/problems/merge-k-sorted-lists/
+- https://github.com/stay-focused-dev/leetcode/commit/3a89cd07eb138ede541992c4bf09c263ee078349
+- https://github.com/stay-focused-dev/leetcode/commit/917f6b967e6a4c1f6c6290f9bc56f9dbbef4a708
