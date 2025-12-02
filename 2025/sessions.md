@@ -236,9 +236,20 @@ Links:
 
 I solved the LeetCode problem 'Merge k Sorted Lists'. One of the obvious approaches to me was the min-heap one—I implemented it. I was pleasantly surprised that Go's standard library includes heap support.
 
-Time spent:
+Time spent: 70 minutes
 Links:
 
 - https://leetcode.com/problems/merge-k-sorted-lists/
 - https://github.com/stay-focused-dev/leetcode/commit/3a89cd07eb138ede541992c4bf09c263ee078349
 - https://github.com/stay-focused-dev/leetcode/commit/917f6b967e6a4c1f6c6290f9bc56f9dbbef4a708
+
+
+## Monday. Session 2
+
+Then I asked Claude about other approaches—it told me that a divide-and-conquer approach could solve the problem with O(1) extra space instead of O(k) for min-heap approach, and with the same time complexity O(n * log k). I was fascinated by this—I implemented the suggested approach immediately. Now that I understand the pattern, I'll be able to implement it independently next time.
+
+Time spent: 23 minutes
+Links:
+
+- https://leetcode.com/problems/merge-k-sorted-lists/
+- https://github.com/stay-focused-dev/leetcode/commit/33e8a097890537b25d82f9552218d26ba1ef0350
