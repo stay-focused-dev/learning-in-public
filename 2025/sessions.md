@@ -253,3 +253,15 @@ Links:
 
 - https://leetcode.com/problems/merge-k-sorted-lists/
 - https://github.com/stay-focused-dev/leetcode/commit/33e8a097890537b25d82f9552218d26ba1ef0350
+
+
+## Tuesday. Session 1
+
+I solved the LeetCode problem '3Sum'. It was an easy problem—I completed it in 51 minutes, spending 20 of those minutes on writing tests. After a successful submission, I asked Claude to review my code. It made several recommendations, and I implemented some immediately.
+
+Time spent: 51 minutes
+Links:
+
+- https://leetcode.com/problems/3sum/description/
+- https://github.com/stay-focused-dev/leetcode/commit/df3c1b4abfab03503df70a6b9ff73f7cabdd68a1
+- https://github.com/stay-focused-dev/leetcode/commit/12cda9d6d7d687eb19befeda38163af11d88fc51
