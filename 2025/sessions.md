@@ -265,3 +265,14 @@ Links:
 - https://leetcode.com/problems/3sum/description/
 - https://github.com/stay-focused-dev/leetcode/commit/df3c1b4abfab03503df70a6b9ff73f7cabdd68a1
 - https://github.com/stay-focused-dev/leetcode/commit/12cda9d6d7d687eb19befeda38163af11d88fc51
+
+
+## Tuesday. Session 2
+
+Then I asked about alternative approaches. Claude described the two-pointer method, which I implemented. Looking back, I'm curious why this approach didn't occur to me initially.
+
+Time spent: 5 minutes
+Links:
+
+- https://leetcode.com/problems/3sum/description/
+- https://github.com/stay-focused-dev/leetcode/commit/44a6ddde2705952ea4f81fb8188641c3a9768922
