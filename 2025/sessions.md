@@ -288,3 +288,14 @@ Time spent: 66 minutes
 Links:
 
 - https://github.com/stay-focused-dev/ansible-vps-setup
+
+
+## Wednesday. Session 2
+
+I needed to get acquainted with the API—so I asked Claude to write an example that would show me how to fetch data from a Google Sheet. I implemented a working program using this example.
+
+Time spent: 20 minutes
+Links:
+
+- https://github.com/stay-focused-dev/go-gsheet-to-telegram/commit/ca292e2217a818b5d1564c13c453eaf756b2b544
+
