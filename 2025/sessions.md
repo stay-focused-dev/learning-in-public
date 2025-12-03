@@ -318,3 +318,12 @@ Time spent: 5 minutes
 Links: 
 
 - https://github.com/stay-focused-dev/go-gsheet-to-telegram/commit/560f5215846139ab0861521074959a393edb1b54
+
+## Wednesday. Session 5
+
+Then I needed to organize development on localhost. Google Drive API uses a publicly available HTTPS callback—I can't use a handler on my laptop without some preparations. So I set up an SSH tunnel, configured an appropriate nginx endpoint for my publicly available domain, wrote a helper script, and finished with a README that would teach you how to run my examples.
+
+Time spent: 33 minutes
+Links:
+
+- https://github.com/stay-focused-dev/go-gsheet-to-telegram/commit/6ee3e16ff7cfa71a7d12d3aa4b9dc99e0c15d4d4
