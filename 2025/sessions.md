@@ -327,3 +327,13 @@ Time spent: 33 minutes
 Links:
 
 - https://github.com/stay-focused-dev/go-gsheet-to-telegram/commit/6ee3e16ff7cfa71a7d12d3aa4b9dc99e0c15d4d4
+
+
+## Wednesday. Session 6
+
+I ran my example that subscribes to sheet notifications, changed some cells in the monitored sheet, and successfully received a notification about this. Actually, a lot of notifications! It was unexpected. It turned out that you have to clean up created channels if you don't want to receive duplicate notifications for the same sheet. I spent some time implementing this (to be honest, I asked Claude to do this).
+
+Time spent: 38 minutes
+Links:
+
+- https://github.com/stay-focused-dev/go-gsheet-to-telegram/commit/2a842daa6d1f1438505fc14ca961d0d07a5f695f
