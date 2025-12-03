@@ -276,3 +276,15 @@ Links:
 
 - https://leetcode.com/problems/3sum/description/
 - https://github.com/stay-focused-dev/leetcode/commit/44a6ddde2705952ea4f81fb8188641c3a9768922
+
+
+## Wednesday. Session 1
+
+My lovely wife asked me to help her. She has some records about future events in Google Sheets and she wants to transform them into reminders in Telegram or Mattermost with appropriate messages addressed to specified people. I thought it was a good idea for a small pet project. 
+
+I wanted notifications about changes to the target documents. Google Drive API allows this functionality but requires a callback URL—I set up a VPS immediately, configured a subdomain with HTTPS support, verified the subdomain in Google Cloud Console, and created a service account in the Google Cloud Console. I don't like this admin stuff, but I have some helpers to set up a new VPS using Ansible.
+
+Time spent: 66 minutes
+Links:
+
+- https://github.com/stay-focused-dev/ansible-vps-setup
