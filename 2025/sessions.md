@@ -308,3 +308,13 @@ Time spent: 78 minutes
 Links:
 
 - https://github.com/stay-focused-dev/go-gsheet-to-telegram/commit/feec74c26700d8405499a8c2e1e02a73b4aa9f19
+
+
+## Wednesday. Session 4
+
+I realized that I needed to refactor the code I'd written to reuse some shared variables (like callback url, sheet id) instead of hardcoding them. I did it immediately.
+
+Time spent: 5 minutes
+Links: 
+
+- https://github.com/stay-focused-dev/go-gsheet-to-telegram/commit/560f5215846139ab0861521074959a393edb1b54
