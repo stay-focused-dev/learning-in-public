@@ -299,3 +299,12 @@ Links:
 
 - https://github.com/stay-focused-dev/go-gsheet-to-telegram/commit/ca292e2217a818b5d1564c13c453eaf756b2b544
 
+
+## Wednesday. Session 3
+
+Then I did the same thing to get acquainted with Google Drive API to get notifications about document changes.
+
+Time spent: 78 minutes
+Links:
+
+- https://github.com/stay-focused-dev/go-gsheet-to-telegram/commit/feec74c26700d8405499a8c2e1e02a73b4aa9f19
