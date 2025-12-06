@@ -6,8 +6,13 @@ I am learning Go again. I have some experience with it, but that was a while bac
 
 Time spent: 72 minutes
 Links:
+
 - https://github.com/stay-focused-dev/tour-of-go/tree/v2025.44.6.1
 
+Tags:
+
+- go
+- education
 
 ## Sunday. Session 1
 
@@ -16,6 +21,11 @@ Read a few chapters on slices and maps in Go.
 Time spent: 62 minutes
 Links:
 - https://github.com/stay-focused-dev/tour-of-go/commit/80539bafb4ad98ed6aa1a41adfc55280a7982c06
+
+Tags:
+
+- go
+- education
 
 
 # Week 45
@@ -28,6 +38,10 @@ Time spent: 101 minutes
 Links:
 - https://github.com/stay-focused-dev/tour-of-go/commit/ed8830e19ed11405d3c3aa27089ab6d55c216e6d
 
+Tags:
+
+- go
+- education
 
 ## Wednesday. Session 1
 
@@ -37,6 +51,10 @@ Time spent: 72 minutes
 Links:
 - https://github.com/stay-focused-dev/tour-of-go/commit/501402823301549e151b1c74c6e5f10628531528
 
+Tags:
+
+- go
+- education
 
 ## Wednesday. Session 2
 
@@ -46,6 +64,10 @@ Time spent: 43 minutes
 Links:
 - https://github.com/stay-focused-dev/tour-of-go/commit/28b4aefb5550289f94a8f1337962dd8be10b9d02
 
+Tags:
+
+- go
+- education
 
 ## Friday. Session 1
 
@@ -55,6 +77,10 @@ Time spent: 27 minutes
 Links:
 - https://github.com/stay-focused-dev/tour-of-go/commit/31a44b69c404ac26f8652312beac8b0ae8c14d57
 
+Tags:
+
+- go
+- education
 
 ## Friday. Session 2
 
@@ -65,6 +91,10 @@ Links:
 - https://go.dev/doc/code
 - https://github.com/stay-focused-dev/go-hello
 
+Tags:
+
+- go
+- education
 
 ## Friday. Session 3
 
@@ -75,6 +105,10 @@ Links:
 - https://www.youtube.com/watch?v=f6kdp27TYZs
 - https://github.com/stay-focused-dev/go-concurrency-patterns/tree/v1
 
+Tags:
+
+- go
+- education
 
 # Week 46
 
@@ -95,6 +129,10 @@ Links:
 - https://www.youtube.com/watch?v=QDDwwePbDtw
 - https://github.com/stay-focused-dev/go-concurrency-patterns/commit/a8c8affff253acf1a75e1691834df1116a4e35dc
 
+Tags:
+
+- go
+- education
 
 ## Friday. Session 1
 
@@ -113,7 +151,10 @@ Links:
 - https://github.com/traefik/whoami
 - https://github.com/stay-focused-dev/exercise-library/commit/91bd285d6fab4d6d5002feac9fbb0e391fcc4a31
 
+Tags:
 
+- go
+- open-source
 
 ## Saturday. Session 1
 
@@ -124,6 +165,10 @@ Links:
 - https://leetcode.com/problems/two-sum/description/
 - https://github.com/stay-focused-dev/leetcode/commit/705c21790a0ce66cb4e4958d4ae7d66274222722
 
+Tags:
+
+- go
+- leetcode
 
 ## Saturday. Session 2
 
@@ -134,6 +179,10 @@ Links:
 - https://leetcode.com/problems/add-two-numbers/
 - https://github.com/stay-focused-dev/leetcode/commit/7df26e1bd3a990c7c25fd64ad41adc9f1e834051
 
+Tags:
+
+- go
+- leetcode
 
 # Week 47
 
@@ -153,6 +202,11 @@ Links:
 - https://github.com/stay-focused-dev/rust-eve-tools/commit/33b17835560d9093ffb266eb76bf49a7bff3e9e0
 
 
+Tags:
+
+- rust
+- per-project
+
 ## Saturday. Session 1
 
 I tackled one of the hard LeetCode problems using Rust—one that requires binary search. The solution concept was straightforward, but the implementation took considerable time. I had to work through all the edge cases on paper, which frustrated me. Why should such a simple idea take so long? I asked Claude about this, and Claude reassured me that it's perfectly normal when you're encountering a pattern for the first time without having internalized it yet. With practice, I'll recognize the pattern instantly and implement solutions quickly. I believe this, because when I was at school, I practiced math extensively and excelled in competitions. It's all about patterns and pattern recognition. I solved the problem independently, then compared my solution to the standard approach (which was more elegant and concise). Now I've planted the seed for the 'binary search' pattern in my mind.
@@ -163,6 +217,10 @@ Links:
 - https://github.com/stay-focused-dev/leetcode/commit/1f504f9356a21d0d13b5db87c25ee5269270957e
 - https://github.com/stay-focused-dev/leetcode/commit/6c1c6cf37159a52471882f11d6c200e001c53556
 
+Tags:
+
+- rust
+- leetcode
 
 # Week 48
 
@@ -176,6 +234,10 @@ Links:
 - https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 - https://github.com/stay-focused-dev/leetcode/commit/71f721632f4618a1a55e35fa4bbea9854afb5bdd
 
+Tags:
+
+- go
+- leetcode
 
 ## Wednesday. Session 1
 
@@ -187,6 +249,12 @@ Links:
 - https://leetcode.com/problems/longest-palindromic-substring/
 - https://github.com/stay-focused-dev/leetcode/commit/7c1d60ab643a2ee6ac0a695e5c55516e44c1a1e5
 
+
+Tags:
+
+- go
+- leetcode
+
 ## Wednesday. Session 2
 
 Then I asked Claude about the optimal solution. It told me about a more effective approach than mine, which I implemented right away. I was blown away when it mentioned a solution with linear complexity—I'll implement that once I fully understand the idea!
@@ -196,6 +264,11 @@ Links:
 
 - https://leetcode.com/problems/longest-palindromic-substring/
 - https://github.com/stay-focused-dev/leetcode/commit/a67105c989937f1a2f5f5b1cc583d70e71b586b6
+
+Tags:
+
+- go
+- leetcode
 
 
 ## Friday. Session 1
@@ -208,6 +281,11 @@ Links:
 - https://leetcode.com/problems/longest-palindromic-substring/
 - https://github.com/stay-focused-dev/leetcode/commit/2c16493bae45bd8164ad0fb5b30efae38a1d2e70
 
+Tags:
+
+- go
+- leetcode
+
 ## Saturday. Session 1
 
 I solved the zigzag conversion problem from LeetCode. The problem itself was easy—you just need to work out the indices on paper. Ironically, this was my first LeetCode problem  where I didn't pass all tests initially. I've noticed that when problems seem obviously simple, I don't scrutinize edge cases carefully enough. That's definitely a lesson I need to internalize.
@@ -218,17 +296,26 @@ Links:
 - https://leetcode.com/problems/zigzag-conversion/
 - https://github.com/stay-focused-dev/leetcode/commit/52b47f052c9954356e1cb1d46f0130d61b70b8ea
 
+Tags:
+
+- go
+- leetcode
+
 ## Saturday. Session 2
 
 I solved the reverse integer problem from LeetCode.
 
-Time spent: 
+Time spent: 40 minutes
 Links:
 
 - https://leetcode.com/problems/reverse-integer/
 - https://github.com/stay-focused-dev/leetcode/commit/aa1e816d8b922ffc8db37cb4c72917d6829576e9
 - https://github.com/stay-focused-dev/leetcode/commit/7c345d37d50d7a738b7b2aacb88dbe0a3dfbca52
 
+Tags:
+
+- go
+- leetcode
 
 # Week 49
 
@@ -244,6 +331,11 @@ Links:
 - https://github.com/stay-focused-dev/leetcode/commit/917f6b967e6a4c1f6c6290f9bc56f9dbbef4a708
 
 
+Tags:
+
+- go
+- leetcode
+
 ## Monday. Session 2
 
 Then I asked Claude about other approaches—it told me that a divide-and-conquer approach could solve the problem with O(1) extra space instead of O(k) for min-heap approach, and with the same time complexity O(n * log k). I was fascinated by this—I implemented the suggested approach immediately. Now that I understand the pattern, I'll be able to implement it independently next time.
@@ -254,6 +346,10 @@ Links:
 - https://leetcode.com/problems/merge-k-sorted-lists/
 - https://github.com/stay-focused-dev/leetcode/commit/33e8a097890537b25d82f9552218d26ba1ef0350
 
+Tags:
+
+- go
+- leetcode
 
 ## Tuesday. Session 1
 
@@ -266,6 +362,11 @@ Links:
 - https://github.com/stay-focused-dev/leetcode/commit/df3c1b4abfab03503df70a6b9ff73f7cabdd68a1
 - https://github.com/stay-focused-dev/leetcode/commit/12cda9d6d7d687eb19befeda38163af11d88fc51
 
+Tags:
+
+- go
+- leetcode
+
 
 ## Tuesday. Session 2
 
@@ -277,6 +378,10 @@ Links:
 - https://leetcode.com/problems/3sum/description/
 - https://github.com/stay-focused-dev/leetcode/commit/44a6ddde2705952ea4f81fb8188641c3a9768922
 
+Tags:
+
+- go
+- leetcode
 
 ## Wednesday. Session 1
 
@@ -290,6 +395,11 @@ Links:
 - https://github.com/stay-focused-dev/ansible-vps-setup
 
 
+Tags:
+
+- infrastructure
+- pet-project
+
 ## Wednesday. Session 2
 
 I needed to get acquainted with the API—so I asked Claude to write an example that would show me how to fetch data from a Google Sheet. I implemented a working program using this example.
@@ -299,6 +409,10 @@ Links:
 
 - https://github.com/stay-focused-dev/go-gsheet-to-telegram/commit/ca292e2217a818b5d1564c13c453eaf756b2b544
 
+Tags:
+
+- go
+- pet-project
 
 ## Wednesday. Session 3
 
@@ -309,6 +423,10 @@ Links:
 
 - https://github.com/stay-focused-dev/go-gsheet-to-telegram/commit/feec74c26700d8405499a8c2e1e02a73b4aa9f19
 
+Tags:
+
+- go
+- pet-project
 
 ## Wednesday. Session 4
 
@@ -319,6 +437,11 @@ Links:
 
 - https://github.com/stay-focused-dev/go-gsheet-to-telegram/commit/560f5215846139ab0861521074959a393edb1b54
 
+Tags:
+
+- go
+- pet-project
+
 ## Wednesday. Session 5
 
 Then I needed to organize development on localhost. Google Drive API uses a publicly available HTTPS callback—I can't use a handler on my laptop without some preparations. So I set up an SSH tunnel, configured an appropriate nginx endpoint for my publicly available domain, wrote a helper script, and finished with a README that would teach you how to run my examples.
@@ -327,6 +450,11 @@ Time spent: 33 minutes
 Links:
 
 - https://github.com/stay-focused-dev/go-gsheet-to-telegram/commit/6ee3e16ff7cfa71a7d12d3aa4b9dc99e0c15d4d4
+
+Tags:
+
+- go
+- pet-project
 
 
 ## Wednesday. Session 6
@@ -338,6 +466,11 @@ Links:
 
 - https://github.com/stay-focused-dev/go-gsheet-to-telegram/commit/2a842daa6d1f1438505fc14ca961d0d07a5f695f
 
+Tags:
+
+- go
+- pet-project
+
 ## Friday. Session 1
 
 I finally cracked one of LeetCode's hard problems—'Sudoku Solver'. For some reason, this one really got under my skin. I knew the right approach: pick an empty cell, figure out which digits could fit, lock one in, and repeat. If you hit a dead end where no digit works, just backtrack and try a different digit in the previous cell. It's basically what you'd do solving it by hand. The hard part was just translating that logic into code. I was nervous about how long it would take. I knew there was no way I'd finish in an hour (typical interview time), but I'm still learning, so whatever. I coded it up, and surprisingly, it worked almost right away. Took me two hours instead of one, but I solved it—and that's what matters.
@@ -347,6 +480,11 @@ Links:
 
 - https://leetcode.com/problems/sudoku-solver/
 - https://github.com/stay-focused-dev/leetcode/commit/e8522f89ce639d40a55edc023d3a9c7cb677becb
+
+Tags:
+
+- go
+- leetcode
 
 
 ## Friday. Session 2
@@ -360,6 +498,11 @@ Links:
 - https://github.com/stay-focused-dev/leetcode/commit/aeac347ed38ad2fd4b3f659fb63f20b2fed70b4e
 - https://github.com/stay-focused-dev/leetcode/commit/1988b8494a564d80dfd3c7b80facda2880eeec52
 
+Tags:
+
+- go
+- leetcode
+
 
 ## Friday. Session 3
 
@@ -369,6 +512,11 @@ Time spent: 73 minutes
 Links:
 
 - https://github.com/stay-focused-dev/go-gsheet-to-telegram/commit/d6b0e742e08d7a1c22f0f3a73f87f3ecccda118e
+
+Tags:
+
+- go
+- pet-project
 
 
 ## Saturday. Session 1
@@ -381,6 +529,10 @@ Links:
 - https://leetcode.com/problems/4sum/description/
 - https://github.com/stay-focused-dev/leetcode/commit/3b59ea11827ebb80f774a7397aac4e959450b06e
 
+Tags:
+
+- go
+- leetcode
 
 ## Saturday. Session 2
 
@@ -392,3 +544,8 @@ Links:
 - https://leetcode.com/problems/4sum/description/
 - https://github.com/stay-focused-dev/leetcode/commit/28b302e430a1bcc3c39f541def57960a3f5cd50c
 - https://github.com/stay-focused-dev/leetcode/commit/b9c6013daa54a54646d5b7806fb30ca14b367f6f
+
+Tags:
+
+- go
+- leetcode
