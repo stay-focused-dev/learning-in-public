@@ -359,3 +359,13 @@ Links:
 - https://leetcode.com/problems/sudoku-solver/
 - https://github.com/stay-focused-dev/leetcode/commit/aeac347ed38ad2fd4b3f659fb63f20b2fed70b4e
 - https://github.com/stay-focused-dev/leetcode/commit/1988b8494a564d80dfd3c7b80facda2880eeec52
+
+
+## Friday. Session 3
+
+I implemented a Telegram echo bot with periodic notifications as part of my pet project. My goal was to work with all components of the future system individually to familiarize myself with the API, and this was the final critical component. I enjoyed experimenting with Go's synchronization primitives, using both channels and atomics to handle shared state.
+
+Time spent: 73 minutes
+Links:
+
+- https://github.com/stay-focused-dev/go-gsheet-to-telegram/commit/d6b0e742e08d7a1c22f0f3a73f87f3ecccda118e
