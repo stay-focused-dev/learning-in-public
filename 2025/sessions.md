@@ -337,3 +337,13 @@ Time spent: 38 minutes
 Links:
 
 - https://github.com/stay-focused-dev/go-gsheet-to-telegram/commit/2a842daa6d1f1438505fc14ca961d0d07a5f695f
+
+## Friday. Session 1
+
+I finally cracked one of LeetCode's hard problems—'Sudoku Solver'. For some reason, this one really got under my skin. I knew the right approach: pick an empty cell, figure out which digits could fit, lock one in, and repeat. If you hit a dead end where no digit works, just backtrack and try a different digit in the previous cell. It's basically what you'd do solving it by hand. The hard part was just translating that logic into code. I was nervous about how long it would take. I knew there was no way I'd finish in an hour (typical interview time), but I'm still learning, so whatever. I coded it up, and surprisingly, it worked almost right away. Took me two hours instead of one, but I solved it—and that's what matters.
+
+Time spent: 121 minutes
+Links:
+
+- https://leetcode.com/problems/sudoku-solver/
+- https://github.com/stay-focused-dev/leetcode/commit/e8522f89ce639d40a55edc023d3a9c7cb677becb
