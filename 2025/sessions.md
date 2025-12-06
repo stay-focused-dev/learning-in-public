@@ -369,3 +369,14 @@ Time spent: 73 minutes
 Links:
 
 - https://github.com/stay-focused-dev/go-gsheet-to-telegram/commit/d6b0e742e08d7a1c22f0f3a73f87f3ecccda118e
+
+
+## Saturday. Session 1
+
+I solved one of LeetCode's problems—'4Sum'. Having encountered a similar problem previously, I implemented a map-based solution. However, my submission performed poorly—it only outperformed a small percentage of other submissions. What would be a more efficient approach?
+
+Time spent: 27 minutes
+Links:
+
+- https://leetcode.com/problems/4sum/description/
+- https://github.com/stay-focused-dev/leetcode/commit/3b59ea11827ebb80f774a7397aac4e959450b06e
