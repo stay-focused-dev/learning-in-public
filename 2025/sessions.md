@@ -380,3 +380,15 @@ Links:
 
 - https://leetcode.com/problems/4sum/description/
 - https://github.com/stay-focused-dev/leetcode/commit/3b59ea11827ebb80f774a7397aac4e959450b06e
+
+
+## Saturday. Session 2
+
+I dug through my commit history, found commits for the '3Sum' problem, and it hit me—the two-pointer approach. I quickly implemented it, and my submission performed much better!
+
+Time spent: 20 minutes
+Links:
+
+- https://leetcode.com/problems/4sum/description/
+- https://github.com/stay-focused-dev/leetcode/commit/28b302e430a1bcc3c39f541def57960a3f5cd50c
+- https://github.com/stay-focused-dev/leetcode/commit/b9c6013daa54a54646d5b7806fb30ca14b367f6f
