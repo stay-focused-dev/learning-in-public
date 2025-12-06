@@ -347,3 +347,15 @@ Links:
 
 - https://leetcode.com/problems/sudoku-solver/
 - https://github.com/stay-focused-dev/leetcode/commit/e8522f89ce639d40a55edc023d3a9c7cb677becb
+
+
+## Friday. Session 2
+
+I then asked Claude to review my solution. It recommended several optimizations, particularly using bitsets. I implemented it and my code became noticeably more concise. I also discovered that recursion is ideal for this problem due to its predictable depth, which allowed me to write far more elegant code than my original approach of manually maintaining backtracking history.
+
+Time spent: 29 minutes
+Links:
+
+- https://leetcode.com/problems/sudoku-solver/
+- https://github.com/stay-focused-dev/leetcode/commit/aeac347ed38ad2fd4b3f659fb63f20b2fed70b4e
+- https://github.com/stay-focused-dev/leetcode/commit/1988b8494a564d80dfd3c7b80facda2880eeec52
