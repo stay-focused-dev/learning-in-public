@@ -567,3 +567,18 @@ Tags:
 
 - rust
 - pet-project
+
+
+## Tuesday. Session 2
+
+I decided to use the newtype pattern for certain types in my library, specifically ItemId and TypeId. The goal is to avoid accidentally mixing up entities that have the same underlying type (i32 or i64) but mean totally different things. It's like adding kilograms to meters—technically possible, but nonsensical.
+
+Time spent: 38 minutes
+Links:
+
+- https://github.com/stay-focused-dev/rust-eve-tools/commit/d1df429d81dd21c143da0b77d5dc82e9a43fc566
+
+Tags:
+
+- rust
+- pet-project
