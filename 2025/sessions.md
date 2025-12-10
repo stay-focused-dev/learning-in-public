@@ -582,3 +582,20 @@ Tags:
 
 - rust
 - pet-project
+
+
+## Wednesday. Session 1
+
+I solved the LeetCode problem '3Sum Closest'. Since I'd already tackled two similar problems, this one was easy. The real challenge was switching my brain from Go syntax to Rust syntax.
+
+Time spent: 24 minutes
+Links:
+
+- https://leetcode.com/problems/3sum-closest
+- https://github.com/stay-focused-dev/leetcode/commit/58e809fa851f449e00f2b97968d5c7e7fc489803
+- https://github.com/stay-focused-dev/leetcode/commit/ef04d851a1d8ace47083992db307e69965e4ffab
+
+Tags:
+
+- rust
+- leetcode
