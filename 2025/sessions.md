@@ -549,3 +549,21 @@ Tags:
 
 - go
 - leetcode
+
+
+# Week 50
+
+## Tuesday. Session 1
+
+I kept working on my pet project, 'rust-eve-tools'. I decided to simplify the /my/dynamics endpoint by flattening the response structure—using arrays instead of maps. Rust's type checker proved invaluable for this refactoring—it provides strong guarantees about code correctness.
+
+
+Time spent: 38 minutes
+Links:
+
+- https://github.com/stay-focused-dev/rust-eve-tools/commit/c381cc0f9248f53f3ad6cee94d1b3fdf7c142a62
+
+Tags:
+
+- rust
+- pet-project
