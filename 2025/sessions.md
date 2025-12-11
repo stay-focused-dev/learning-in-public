@@ -599,3 +599,17 @@ Tags:
 
 - rust
 - leetcode
+
+## Wednesday. Session 2
+
+In my /my/dynamics handler, I initially used Result<T, String> for function signatures. I knew using String as an error type wasn't idiomatic Rust, so I created a proper DynamicsError type and refactored everything.
+
+Time spent: 79 minutes
+Links:
+
+- https://github.com/stay-focused-dev/rust-eve-tools/commit/cebba1411aa96d00176f43fc65a41361e0a41584
+
+Tags:
+
+- rust
+- pet-project
