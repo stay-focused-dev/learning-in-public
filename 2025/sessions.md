@@ -613,3 +613,19 @@ Tags:
 
 - rust
 - pet-project
+
+## Thursday. Session 1
+
+I solved the LeetCode problem 'Container With Most Water'
+
+Time spent: 15 minutes
+Links:
+
+- https://leetcode.com/problems/container-with-most-water/
+- https://github.com/stay-focused-dev/leetcode/commit/72b8ce0115b80fa9bbf90654b26775fa16db81a1
+- https://github.com/stay-focused-dev/leetcode/commit/8922d2110f3ca11aee93d66d8291378b987734ff
+
+Tags:
+
+- rust
+- leetcode
