@@ -715,3 +715,19 @@ Tags:
 
 - rust
 - leetcode
+
+
+## Saturday. Session 5
+
+Knocked out 'Get Equal Substrings Within Budget' on LeetCode. I immediately recognized this as a sliding-window problem, so it didn't take long to implement.
+
+Time spent: 18 minutes
+Links:
+
+- https://leetcode.com/problems/get-equal-substrings-within-budget/
+- https://github.com/stay-focused-dev/leetcode/commit/56b216b56f6e086eff7b7c0c448a45e1bb8502eb
+
+Tags:
+
+- rust
+- leetcode
