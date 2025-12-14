@@ -763,3 +763,18 @@ Tags:
 
 - rust
 - leetcode
+
+## Wednesday. Session 1
+
+I solved 'Number of Ways to Divide a Long Corridor', one of LeetCode's hard problems. The state machine approach was obvious to me, so I drafted the states and transitions on paper first, then coded it. Didn't take long at all.
+
+Time spent: 22 minutes
+Links:
+
+- https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor
+- https://github.com/stay-focused-dev/leetcode/commit/18748658d769ef0fcb3d87a6b1c74ae743f352af
+
+Tags:
+
+- rust
+- leetcode
