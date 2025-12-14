@@ -778,3 +778,18 @@ Tags:
 
 - rust
 - leetcode
+
+## Wednesday. Session 2
+
+I asked Claude to help make my code more idiomatic, and it came back with this beautiful refactored version. I was genuinely astonished—the improvements made so much sense!
+
+Time spent: 14 minutes
+Links:
+
+- https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor
+- https://github.com/stay-focused-dev/leetcode/commit/6c521852ff45207318a919f181199d6bd30a0efd
+
+Tags:
+
+- rust
+- leetcode
