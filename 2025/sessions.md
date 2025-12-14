@@ -668,3 +668,19 @@ Tags:
 
 - rust
 - leetcode
+
+
+## Saturday. Session 2
+
+Then I asked Claude for the optimal solution. It showed me the greedy approach, and once I understood it, I was genuinely excited. The approach is so elegant and super easy to code!
+
+Time spent: 15 minutes
+Links:
+
+- https://leetcode.com/problems/jump-game/
+- https://github.com/stay-focused-dev/leetcode/commit/d43834c75823d1e7ccf2bd17c0602ab8973dabbe
+
+Tags:
+
+- rust
+- leetcode
