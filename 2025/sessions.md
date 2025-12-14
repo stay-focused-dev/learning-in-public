@@ -629,3 +629,24 @@ Tags:
 
 - rust
 - leetcode
+
+
+## Friday. Session 1
+
+I continued working on the /my/dynamics endpoint in my pet project, rust-eve-tools. This endpoint returns all abyssal items for the logged-in character. For each item, I build a location chain—for example, if an abyssal item (id=123) is in a container called "Some Container" inside a ship called "Some Ship" docked at "Some Station", I create a record like `{"item_id": 123, "location_type": "station", "station_name": "Some Station", "location_name": "Some Ship -> Some Container", ...}`. Since containers can hold many items, I cache (location_type, station_name, location_name) for all relevant containers. This caching gave me a significant performance boost.
+
+Later, I noticed I was cloning `String` values every time I generated a response. I thought I could optimize by using `Arc<str>` instead, so I asked Claude for help and implemented it. Unfortunately, there was no performance improvement. I was disappointed—it reminded me that while I can write Rust code, I don't always understand the performance implications. There are still gaps in my knowledge, and that frustrates me. I reverted to `String`.
+
+Time spent: 112 minutes
+Links:
+
+- https://github.com/stay-focused-dev/rust-eve-tools/commit/3e842c1600db7deac0e55cf3e1f5a5df5928c39f
+- https://github.com/stay-focused-dev/rust-eve-tools/commit/fb1fa8f1ff7000c096912739a9552f37cdf4d113
+- https://github.com/stay-focused-dev/rust-eve-tools/commit/0524fbbbde2f953a2208a0a9524b668bef234373
+- https://github.com/stay-focused-dev/rust-eve-tools/commit/9d2ab603a84f9435c400ae13d89217bdf6ec9cf8
+- https://github.com/stay-focused-dev/rust-eve-tools/commit/e2524ef32cb7ecbd420a898901dc3952f9beeaa7
+
+Tags:
+
+- rust
+- pet-project
