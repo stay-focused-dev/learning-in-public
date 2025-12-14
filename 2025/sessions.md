@@ -650,3 +650,21 @@ Tags:
 
 - rust
 - pet-project
+
+
+## Saturday. Session 1
+
+I tackled the LeetCode problem 'Jump Game'—honestly, I just wanted a quick win. The problem seemed simple enough that I figured I could knock it out quickly. I wrote some tests and coded up the solution in my head within 15 minutes. All the example tests passed. Then I hit submit... and got TLE. Turns out I hadn't considered the worst-case scenario at all, and my solution was painfully slow on some inputs. Spent another hour fighting with memoization to get it working.
+
+P.S. Learned a nice Rust pattern for collection chaining in the process. Thanks, Claude!
+
+Time spent: 71 minutes
+Links:
+
+- https://leetcode.com/problems/jump-game/
+- https://github.com/stay-focused-dev/leetcode/commit/3178110b9d1517855375a716564f14da76e6bafd
+
+Tags:
+
+- rust
+- leetcode
