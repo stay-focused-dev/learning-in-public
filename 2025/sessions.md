@@ -699,3 +699,19 @@ Tags:
 
 - rust
 - leetcode
+
+## Saturday. Session 4
+
+Worked on 'Coupon Code Validator' on LeetCode—supposed to be easy, but I spent forever on it. Why? Because I was too lazy to actually read the details carefully. I just coded it up, submitted, failed, wondered what went wrong, reread the description, and... did it all over again.
+
+Time spent: 50 minutes
+Links:
+
+- https://leetcode.com/problems/coupon-code-validator/
+- https://github.com/stay-focused-dev/leetcode/commit/8050e6017f492a49464c21946d586cc00f23b941
+- https://github.com/stay-focused-dev/leetcode/commit/c16929f1707be1ff62590d26dddf630a57eaca7c
+
+Tags:
+
+- rust
+- leetcode
