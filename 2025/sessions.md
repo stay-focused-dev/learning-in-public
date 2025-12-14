@@ -684,3 +684,18 @@ Tags:
 
 - rust
 - leetcode
+
+## Saturday. Session 3
+
+I solved the LeetCode problem 'Pow(x, n)'. Already knew the optimal approach, so it didn't take long.
+
+Time spent: 20 minutes
+Links:
+
+- https://leetcode.com/problems/powx-n/
+- https://github.com/stay-focused-dev/leetcode/commit/574907eae8d70df445f1387f26d38c9dc4d7efa1
+
+Tags:
+
+- rust
+- leetcode
