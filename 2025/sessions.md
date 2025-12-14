@@ -731,3 +731,19 @@ Tags:
 
 - rust
 - leetcode
+
+## Saturday. Session 6
+
+I solved a LeetCode problem, 'Statistics from a Large Sample'. Then I asked Claude to make it more idiomatic—and learned some Rust patterns that made the code more readable. Excellent!
+
+Time spent: 55 minutes
+Links:
+
+- https://leetcode.com/problems/statistics-from-a-large-sample/description/
+- https://github.com/stay-focused-dev/leetcode/commit/c4d5adb51360e8cbf801b1d87e34ab577ab46abd
+- https://github.com/stay-focused-dev/leetcode/commit/6d722aef6700a86a273d969976ec996097d2d6d7
+
+Tags:
+
+- rust 
+- leetcode
