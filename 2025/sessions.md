@@ -747,3 +747,19 @@ Tags:
 
 - rust 
 - leetcode
+
+
+## Saturday. Session 7
+
+Knocked out a LeetCode problem, 'Total Hamming Distance'. 
+
+Time spent: 9 minutes
+Links:
+
+- https://leetcode.com/problems/total-hamming-distance/description/
+- https://github.com/stay-focused-dev/leetcode/commit/6b87da34d4327dcb66a481212d0df3f9a022b61d
+
+Tags:
+
+- rust
+- leetcode
