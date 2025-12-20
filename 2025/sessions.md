@@ -764,7 +764,7 @@ Tags:
 - rust
 - leetcode
 
-## Wednesday. Session 1
+## Sunday. Session 1
 
 I solved 'Number of Ways to Divide a Long Corridor', one of LeetCode's hard problems. The state machine approach was obvious to me, so I drafted the states and transitions on paper first, then coded it. Didn't take long at all.
 
@@ -779,7 +779,7 @@ Tags:
 - rust
 - leetcode
 
-## Wednesday. Session 2
+## Sunday. Session 2
 
 I asked Claude to help make my code more idiomatic, and it came back with this beautiful refactored version. I was genuinely astonished—the improvements made so much sense!
 
