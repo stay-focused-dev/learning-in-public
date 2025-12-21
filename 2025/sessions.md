@@ -828,3 +828,17 @@ Tags:
 - go
 - leetcode
 
+
+## Tuesday. Session 2
+
+I asked Claude to help optimize my solution to 'Maximum Profit from Trading Stocks with Discounts'. It suggested a few solid improvements, which I implemented. Can't recall all the specifics now, but I think some of the techniques became part of my toolkit.
+
+Time spent: 38 minutes
+Links:
+- https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/description/
+- https://github.com/stay-focused-dev/leetcode/commit/96312cc88315229f6c220c5364b1caf438923de0
+
+Tags:
+
+- go
+- leetcode
