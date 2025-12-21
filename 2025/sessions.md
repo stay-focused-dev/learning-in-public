@@ -875,3 +875,19 @@ Tags:
 
 - go
 - leetcode
+
+
+## Wednesday. Session 3
+
+I've been itching to do some statistical analysis on mutaplasmid applications in EVE Online. I've created numerous abyssal modules (regular module + mutaplasmid -> abyssal module) and developed a script that retrieves stats for them (see rust-eve-tools). Just snapshotted the data and documented the structure.
+
+Time spent: 79 minutes
+Links:
+
+- https://github.com/stay-focused-dev/data-eve-abyssal-items/commit/5c2d9119a0710842316b5c97e586ea2c209ffc91
+- https://github.com/stay-focused-dev/data-eve-abyssal-items/commit/dc9314b6b46a4797e51ab53167aa427159c1f713
+
+Tags:
+
+- data
+- pet-project
