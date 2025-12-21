@@ -908,3 +908,17 @@ Tags:
 - go
 - leetcode
 
+## Friday. Session 1
+
+Did 'Find All People With Secret' for the daily LeetCode challenge. Initially thought it looked easy—why's it marked Hard? Submitted after 20 minutes... TLE. Realized I needed proper graph algorithms. Tried DFS with Claude's help... TLE. Switched to union-find after learning about it... TLE. More optimizations needed. Finally, I got it accepted! First time really working with graphs—super fun despite the struggle.
+
+Time spent: 116 minutes
+Links:
+
+- https://leetcode.com/problems/find-all-people-with-secret/description/
+- https://github.com/stay-focused-dev/leetcode/commit/698e2b2be741b94a976dd6708994a7c6bec47446
+
+Tags:
+
+- go
+- leetcode
