@@ -954,3 +954,19 @@ Tags:
 
 - go
 - leetcode
+
+
+## Saturday. Session 1
+
+Worked on 'Delete Columns to Make Sorted' on LeetCode. It was an easy problem. Did it in no time.
+
+Time spent: 10 minutes
+Links:
+
+- https://leetcode.com/problems/delete-columns-to-make-sorted/description/
+- https://github.com/stay-focused-dev/leetcode/commit/5cde5c0affeac2120e29bb831fc08bffc0f993f4
+
+Tags:
+
+- go
+- leetcode
