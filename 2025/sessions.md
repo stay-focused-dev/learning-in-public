@@ -938,3 +938,19 @@ Tags:
 
 - go
 - leetcode
+
+
+## Friday. Session 3
+
+Knocked out 'Count Covered Buildings' on LeetCode. The solution was obvious from the description. Didn't take long at all.
+
+Time spent: 15 minutes
+Links:
+
+- https://leetcode.com/problems/count-covered-buildings/description/
+- https://github.com/stay-focused-dev/leetcode/commit/d2f9d78554acb6cf0a785e0705c78e117352c427
+
+Tags:
+
+- go
+- leetcode
