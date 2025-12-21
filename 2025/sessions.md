@@ -811,3 +811,20 @@ Tags:
 
 - go
 - leetcode
+
+
+## Tuesday. Session 1
+
+I tackled one of LeetCode's hard problems: 'Maximum Profit from Trading Stocks with Discounts'. This was one of my first real attempts at dynamic programming. I understood the concept, but actually implementing it without hitting TLE was really challenging. I need more practice. But I'm optimistic that with repetition, the approach will become intuitive.
+
+Time spent: 100 minutes
+Links:
+
+- https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/description/
+- https://github.com/stay-focused-dev/leetcode/commit/d17ddd9fbc687488a0e6a7d32a6f771f3f16e810
+
+Tags:
+
+- go
+- leetcode
+
