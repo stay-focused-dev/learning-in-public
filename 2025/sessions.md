@@ -842,3 +842,20 @@ Tags:
 
 - go
 - leetcode
+
+
+## Wednesday. Session 1
+
+I tackled 'Best Time to Buy and Sell Stock V' on LeetCode—one of the daily challenges, and I wanted to keep my streak alive. As soon as I saw the 'Dynamic Programming' tag, I knew I was in trouble (even though it was labeled 'Medium'). Struggled for a long time but couldn't get a working solution independently—ended up asking Claude for help. Really tough problem.
+
+
+Time spent: 155 minutes
+Links:
+
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/description/
+- https://github.com/stay-focused-dev/leetcode/commit/558422f510123edac8f5cc7c22276e7f7777bfa7
+
+Tags:
+
+- go
+- leetcode
