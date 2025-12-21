@@ -793,3 +793,21 @@ Tags:
 
 - rust
 - leetcode
+
+
+# Week 51
+
+## Monday. Session 1
+
+Solved 'Number of Smooth Descent Periods of a Stock' on LeetCode. Pretty straightforward once I figured out how to count contiguous descent periods, then all the nested periods within them. I never remember the arithmetic progression formula (forget it every time!), but I love recalling the famous story of young Gauss solving this in school. Fun to implement it myself.
+
+Time spent: 30 minutes
+Links:
+
+- https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/description/
+- https://github.com/stay-focused-dev/leetcode/commit/4d6065cb404a9cee778724e6d55803d9eb458979
+
+Tags:
+
+- go
+- leetcode
