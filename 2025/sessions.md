@@ -988,3 +988,18 @@ Tags:
 
 - go
 - leetcode
+
+## Sunday. Session 2
+
+I asked Claude to review my 'Delete Columns to Make Sorted II' solution. It suggested some solid improvements, which I implemented right away.
+
+Time spent: 13 minutes
+Links:
+
+- https://leetcode.com/problems/delete-columns-to-make-sorted-ii/description/
+- https://github.com/stay-focused-dev/leetcode/commit/ee85807eaf7b00abe91a7cf35f6f974bd0488b62
+
+Tags:
+
+- go
+- leetcode
