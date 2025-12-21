@@ -922,3 +922,19 @@ Tags:
 
 - go
 - leetcode
+
+## Friday. Session 2
+
+My 'Find All People With Secret' solution worked, but it wasn't optimal—only beat a small fraction of submissions. For the first time, I realized I could check out other people's code and compare. I discovered several elegant, more efficient solutions. They used union-find like mine, but approached the problem from a different angle. I understood the approach and implemented it with Claude's guidance.
+
+Time spent: 46 minutes
+Links:
+
+- https://leetcode.com/problems/find-all-people-with-secret/description/
+- https://github.com/stay-focused-dev/leetcode/commit/823874e1f1f489d10ac17246ba922e872edb8383
+- https://github.com/stay-focused-dev/leetcode/commit/03bc67cc475a1e3396b5b5713b052d79e7d6d05f
+
+Tags:
+
+- go
+- leetcode
