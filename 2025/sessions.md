@@ -1003,3 +1003,29 @@ Tags:
 
 - go
 - leetcode
+
+
+## Sunday. Session 3
+
+Finished my weekly report. My process has become pretty routine: draft it myself, get Claude to fix my mistakes and suggest more natural phrasing, compile the final version. It took forever, but the learning process was enjoyable. I still make plenty of mistakes, but way fewer than before. Some idioms have stuck with me (working on the rest!). It hasn't been easy, but I did it and grew from it!
+
+Time spent: 119 minutes
+Links:
+
+- https://github.com/stay-focused-dev/learning-in-public/commit/5f1aa6a056bcaa24961ccbd17b7407fe5a3e4131
+- https://github.com/stay-focused-dev/learning-in-public/commit/ce1cb2ea5359b47a874cc992199df12e30d4ac5d
+- https://github.com/stay-focused-dev/learning-in-public/commit/8d289b9fe2733e9e202bfec88a72397794e8b12d
+- https://github.com/stay-focused-dev/learning-in-public/commit/44c920d6af617c80d7a8e2ffabadf1274a62e7e4
+- https://github.com/stay-focused-dev/learning-in-public/commit/1fe0d9e5dbd96b52f8ebbb436b1537fc424254a3
+- https://github.com/stay-focused-dev/learning-in-public/commit/bcd61da508b2412cedde0ffb9b086be07b8efdd9
+- https://github.com/stay-focused-dev/learning-in-public/commit/c58dfda5a91e64448e895ff6edf7aca877facf9e
+- https://github.com/stay-focused-dev/learning-in-public/commit/9068d1982f7b1635d4d6f887e6370edd9aa3569c
+- https://github.com/stay-focused-dev/learning-in-public/commit/43ff7d0eaedb3270054ce6a3cae07ec44c03dab8
+- https://github.com/stay-focused-dev/learning-in-public/commit/e2ea5081bd47b0c803ca95be0140c000504bd69a
+- https://github.com/stay-focused-dev/learning-in-public/commit/5ef8156c9999f60fe0c44d3378d7886ef0798f66
+- https://github.com/stay-focused-dev/learning-in-public/commit/227cb7872583e60e4e5290a9a6291348879bd236
+- https://github.com/stay-focused-dev/learning-in-public/commit/798260d9b4807cd8e0b84ee13cc98e5ce50934ab
+
+Tags:
+
+- diary
