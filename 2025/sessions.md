@@ -891,3 +891,20 @@ Tags:
 
 - data
 - pet-project
+
+
+## Thursday. Session 1
+
+Knocked out 'Best Time to Buy and Sell Stock using Strategy' on LeetCode. Solved it with pen and paper first, then translated it to code. Easy!
+
+Time spent: 24 minutes
+Links:
+
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/description/
+- https://github.com/stay-focused-dev/leetcode/commit/6e06d77c156ab8fbbbb98c89031b8ea8830718e5
+
+Tags:
+
+- go
+- leetcode
+
