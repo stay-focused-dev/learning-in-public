@@ -859,3 +859,19 @@ Tags:
 
 - go
 - leetcode
+
+## Wednesday. Session 2
+
+I asked Claude to help refactor my 'Best Time to Buy and Sell Stock V' solution. It suggested some solid improvements, which I implemented. The result looks elegant and simple. Don't let that fool you though—it took serious effort to get there!
+
+Time spent: 15 minutes
+Links:
+
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/description/
+- https://github.com/stay-focused-dev/leetcode/commit/5000276f9a7743967938f627d6887e79cc0c0ce2
+
+
+Tags:
+
+- go
+- leetcode
