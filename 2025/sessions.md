@@ -1207,3 +1207,18 @@ Tags:
 - go
 - leetcode
 
+
+## Thursday. Session 2
+
+My 'Maximize Happiness of Selected Children' solution wasn't the fastest, so I decided to implement a more asymptotically efficient version using a min-heap. Not too hard—just referenced the container/heap docs (no point wrestling with the interface). Got it accepted and... it was actually slower than my first attempt. Classic!
+
+Time spent: 14 minutes
+Links:
+
+- https://leetcode.com/problems/maximize-happiness-of-selected-children/description
+- https://github.com/stay-focused-dev/leetcode/commit/62dcb1e275787f0e55ef3d5961355a66f4716159
+
+Tags:
+
+- go
+- leetcode
