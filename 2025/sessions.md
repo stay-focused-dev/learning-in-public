@@ -1029,3 +1029,21 @@ Links:
 Tags:
 
 - diary
+
+# Week 52
+
+## Monday. Session 1
+
+Worked on 'Longest Consecutive Sequence' on LeetCode. I knew union-find would work well here, so I went with that approach. Still don't have the pattern fully internalized though, so it took some extra time.
+
+Time spent: 33 minutes
+Links:
+
+- https://leetcode.com/problems/longest-consecutive-sequence/description
+- https://github.com/stay-focused-dev/leetcode/commit/65e05e45ad9aa1043a328147169edc32bf0a5873
+
+Tags:
+
+- go
+- leetcode
+
