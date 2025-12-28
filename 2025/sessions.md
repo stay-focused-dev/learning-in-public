@@ -1109,3 +1109,19 @@ Tags:
 
 - go
 - leetcode
+
+## Tuesday. Session 2
+
+Had Claude review my 'Two Best Non-Overlapping Events' solution. Got some solid refactoring suggestions. Since my submission wasn't among the fastest, I explored other solutions and realized a DP approach would be more efficient. Claude showed me how to implement it, which I did. The bottom-up DP approach will eventually become one of my go-to tools.
+
+Time spent: 41 minutes
+Links:
+
+- https://leetcode.com/problems/two-best-non-overlapping-events/description/
+- https://github.com/stay-focused-dev/leetcode/commit/4d77e508807d541820bb663eb025edb5f1e1aa86
+- https://github.com/stay-focused-dev/leetcode/commit/1f80f5d31f1a25f2697b0863fe6837dcf1d00e92
+
+Tags:
+
+- go
+- leetcode
