@@ -1156,3 +1156,19 @@ Tags:
 
 - go
 - education
+
+
+## Wednesday. Session 3
+
+Worked on 'Search Insert Position' on LeetCode. I decided to practice binary search problems. It was one of the first ones.
+
+Time spent: 22 minutes
+Links:
+
+- https://leetcode.com/problems/search-insert-position/description
+- https://github.com/stay-focused-dev/leetcode/commit/0ca7b7d7854c7b81b80afe718842f1fbd0cf716f
+
+Tags:
+
+- go
+- leetcode
