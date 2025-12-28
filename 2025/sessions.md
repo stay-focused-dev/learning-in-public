@@ -1222,3 +1222,20 @@ Tags:
 
 - go
 - leetcode
+
+
+## Thursday. Session 3
+
+Explored other approaches to 'Maximize Happiness of Selected Children'. Discovered a radix-sort solution that performed well. Coded it up with Claude's guidance and yeah, it outperformed my previous attempts. But honestly? The approach feels really weird to me. Not a fan.
+
+Time spent: 24 minutes
+Links:
+
+- https://leetcode.com/problems/maximize-happiness-of-selected-children/description
+- https://github.com/stay-focused-dev/leetcode/commit/bb49dc960757b542e72df0762f91e2f1a86328ca
+
+Tags:
+
+- go
+- leetcode
+
