@@ -1094,3 +1094,18 @@ Tags:
 - go
 - leetcode
 
+
+## Tuesday. Session 1
+
+Tackled 'Two Best Non-Overlapping Events' on LeetCode. I knew binary search was the right approach, but I wasn't fluent with it yet. Took way longer than expected to get an accepted solution, but I finally cracked it. Binary search seems simple, but it's deceptively tricky—definitely needs practice.
+
+Time spent: 119 minutes
+Links:
+
+- https://leetcode.com/problems/two-best-non-overlapping-events/description/
+- https://github.com/stay-focused-dev/leetcode/commit/6463189a5110c5cff8b38d33265e13bf5d55b8c7
+
+Tags:
+
+- go
+- leetcode
