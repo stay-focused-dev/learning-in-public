@@ -1062,3 +1062,18 @@ Tags:
 
 - go
 - leetcode
+
+## Monday. Session 3
+
+Solved 'Delete Columns to Make Sorted III' on LeetCode—a hard one. I immediately knew dynamic programming would be the way to go. Since I was confident I could handle the top-down DP approach myself, I coded that first. Getting an accepted submission took ages, but when it finally went through, I was really proud of myself.
+
+Time spent: 70 minutes
+Links:
+
+- https://leetcode.com/problems/delete-columns-to-make-sorted-iii/description/
+- https://github.com/stay-focused-dev/leetcode/commit/3039ea62524a318155fb30425bef48ec68de592c
+
+Tags:
+
+- go
+- leetcode
