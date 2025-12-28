@@ -1142,3 +1142,17 @@ Tags:
 - go
 - leetcode
 
+## Wednesday. Session 2
+
+Took on implementing an HTTP/2 web server in Go below the net/http abstraction layer. I'm comfortable with HTTP/1, but HTTP/2 was mostly new to me. Really interesting to explore the internals of such a foundational protocol. Got it working, but there's a long road ahead in terms of understanding all the nuances.
+
+Time spent: 214 minutes
+Links:
+
+- https://github.com/stay-focused-dev/exercise-library/blob/master/001-web-server-os-information/task.md
+- https://github.com/stay-focused-dev/go-web-server-os-information/commit/facdac1d26faa077d4b736459a28fab4c2ec2e32
+
+Tags:
+
+- go
+- education
