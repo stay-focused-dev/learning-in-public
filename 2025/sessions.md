@@ -1125,3 +1125,20 @@ Tags:
 
 - go
 - leetcode
+
+
+## Wednesday. Session 1
+
+Knocked out 'Apple Redistribution into Boxes' on LeetCode. It was a daily problem.
+
+Time spent: 7 minutes
+Links:
+
+- https://leetcode.com/problems/apple-redistribution-into-boxes/description/
+- https://github.com/stay-focused-dev/leetcode/commit/079f588239548913ce85efd5339e62ea7e1b0b91
+
+Tags:
+
+- go
+- leetcode
+
