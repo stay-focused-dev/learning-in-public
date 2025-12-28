@@ -1239,3 +1239,18 @@ Tags:
 - go
 - leetcode
 
+
+## Friday. Session 1
+
+Solved today's LeetCode daily: 'Minimum Penalty for a Shop'. Streak continues.
+
+Time spent: 45 minutes
+Links:
+
+- https://leetcode.com/problems/minimum-penalty-for-a-shop/description/
+- https://github.com/stay-focused-dev/leetcode/commit/95e55c0aebd28b080775c2324613a927882bf03e
+
+Tags:
+
+- go
+- leetcode
