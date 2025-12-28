@@ -1190,3 +1190,20 @@ Tags:
 
 - go
 - leetcode
+
+
+## Thursday. Session 1
+
+Knocked out a daily problem 'Maximize Happiness of Selected Children' on LeetCode.
+
+Time spent: 6 minutes
+Links:
+
+- https://leetcode.com/problems/maximize-happiness-of-selected-children/description
+- https://github.com/stay-focused-dev/leetcode/commit/bf8ef013b85797eec68814325056636a5d837b4c
+
+Tags:
+
+- go
+- leetcode
+
