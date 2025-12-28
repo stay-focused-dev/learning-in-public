@@ -1172,3 +1172,21 @@ Tags:
 
 - go
 - leetcode
+
+
+## Wednesday. Session 4
+
+Tackled 'Search in Rotated Sorted Array' on LeetCode. I had to implement binary search twice. Binary search seemed familiar to me at the moment, but it took surprisingly long to get an accepted submission.
+
+
+Time spent: 51 minutes
+Links:
+
+- https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+- https://github.com/stay-focused-dev/leetcode/commit/e2c073ab5741dc23ab3fa1a68bf04d02b7f9d86e
+- https://github.com/stay-focused-dev/leetcode/commit/30e1a1a6dfc68863ea47942704401d60a933866a
+
+Tags:
+
+- go
+- leetcode
