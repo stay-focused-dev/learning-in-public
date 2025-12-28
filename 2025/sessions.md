@@ -1047,3 +1047,18 @@ Tags:
 - go
 - leetcode
 
+## Monday. Session 2
+
+Got Claude to review 'Longest Consecutive Sequence'. It suggested some solid union-find improvements, which I implemented right away. Then it showed me a hash-map approach I hadn't considered. Coded that up, submitted it, and wow—way faster than my union-find solution.
+
+Time spent: 48 minutes
+Links:
+
+- https://leetcode.com/problems/longest-consecutive-sequence/description
+- https://github.com/stay-focused-dev/leetcode/commit/cd803cf83ff844c41936f0151bc002c572969671
+- https://github.com/stay-focused-dev/leetcode/commit/ae14e757eafdb85a6f7cd2356580934d7c0fc8c0
+
+Tags:
+
+- go
+- leetcode
