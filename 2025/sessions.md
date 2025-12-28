@@ -1077,3 +1077,20 @@ Tags:
 
 - go
 - leetcode
+
+## Monday. Session 4
+
+Asked Claude to help convert 'Delete Columns to Make Sorted III' to bottom-up DP (which I knew would be faster). Coded it up and submitted—accepted! Much quicker runtime than my top-down version, though with the same time complexity. Claude then mentioned a topological sort approach. Interesting to see the problem from a completely different angle—not the fastest solution (similar to my top-down), but a fascinating alternative.
+
+Time spent: 58 minutes
+Links:
+
+- https://leetcode.com/problems/delete-columns-to-make-sorted-iii/description/
+- https://github.com/stay-focused-dev/leetcode/commit/9eddfaf8e4c37bb2609f5a43ecad4d9166163054
+- https://github.com/stay-focused-dev/leetcode/commit/2bc645dee54f9506f87a998fa6ea0adc1eed214e
+
+Tags:
+
+- go
+- leetcode
+
