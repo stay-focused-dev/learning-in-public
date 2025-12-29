@@ -1399,3 +1399,21 @@ Tags:
 - go
 - leetcode
 
+
+## Saturday. Session 1
+
+Tackled 'Meeting Rooms III', a hard LeetCode problem. Worked it out on paper first before coding. Still not comfortable with the container/heap API, so I leaned on the docs to get the implementation right. Debugging took forever before getting an accepted submission. Had Claude review it afterward—got some excellent suggestions and implemented them immediately.
+
+Time spent: 125 minutes
+Links:
+
+- https://leetcode.com/problems/meeting-rooms-iii/description
+- https://github.com/stay-focused-dev/leetcode/commit/2c8bd51c8c32377df5f4b47f2c3deffe8051b412
+- https://github.com/stay-focused-dev/leetcode/commit/1845b04be605dc85c33284bc2af02f58757847be
+- https://github.com/stay-focused-dev/leetcode/commit/c2387079c65cba80377320783b3334401458a1ac
+
+Tags:
+
+- go
+- leetcode
+
