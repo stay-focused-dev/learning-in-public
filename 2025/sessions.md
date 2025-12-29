@@ -1367,3 +1367,20 @@ Tags:
 - go
 - leetcode
 
+
+## Friday. Session 9
+
+Knocked out 'Two Sum II' on LeetCode. I was so focused on binary search that I solved it that way quickly... and completely missed the more elegant two-pointer approach. Still fun to practice binary search though!
+
+Time spent: 10 minutes
+Links:
+
+- https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description
+- https://github.com/stay-focused-dev/leetcode/commit/cb20ad91e80311e40928f43ca65cb6fdfa1de35d
+
+Tags:
+
+- go
+- leetcode
+
+
