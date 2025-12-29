@@ -1446,3 +1446,31 @@ Tags:
 
 - go
 - leetcode
+
+
+## Sunday. Session 3
+
+Last week I accidentally let my records pile up until the weekend. Processing them took forever. But it was actually great—it gave me much deeper English practice (writing 10-20 paragraphs instead of just 1-2 really makes a difference). This week I deliberately saved them up again to repeat the experience. It turned out to be a busy week though, so I ended up with tons of material. Only managed to write notes for about half the sessions.
+
+Time spent: 100 minutes
+
+Links:
+
+- https://github.com/stay-focused-dev/learning-in-public/commit/a9f5cd17133465a9b4ec540ba309a0587ab32d2c
+- https://github.com/stay-focused-dev/learning-in-public/commit/79ad1c4d63973c2715b04e3f4d83f174e6f6e62c
+- https://github.com/stay-focused-dev/learning-in-public/commit/d8252268f38028d540afee0fe2eea42d258348e0
+- https://github.com/stay-focused-dev/learning-in-public/commit/6623345f064da64cc2b91f730bb91fb869b36a99
+- https://github.com/stay-focused-dev/learning-in-public/commit/ee379c88c1063c278ed369de4e0ff01615135e63
+- https://github.com/stay-focused-dev/learning-in-public/commit/2aead8b496eeff17bc4fb42d1b27da9ecb22813b
+- https://github.com/stay-focused-dev/learning-in-public/commit/3bf0f9831961593c274735b0590c02bc8caf8e38
+- https://github.com/stay-focused-dev/learning-in-public/commit/5115e4a2e2d46a109c7014e1b1ff3ab033c7e4bd
+- https://github.com/stay-focused-dev/learning-in-public/commit/bc14d1c37281a442ec79469895d8ea744e29829f
+- https://github.com/stay-focused-dev/learning-in-public/commit/dd2d5875b62111e14755027e741d3c8f6cad9840
+- https://github.com/stay-focused-dev/learning-in-public/commit/87349f22dfca4efd52a72ab2424a1098661c2993
+- https://github.com/stay-focused-dev/learning-in-public/commit/c36fdedd81e3f920d32ef20080a83e6696f3ea36
+- https://github.com/stay-focused-dev/learning-in-public/commit/74a48535fba004cb5564f95a35f85a1d49a48176
+- https://github.com/stay-focused-dev/learning-in-public/commit/7135c480efc433851cd59d18128b52dc99919276
+
+Tags:
+
+- diary
