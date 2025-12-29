@@ -1303,3 +1303,19 @@ Tags:
 - go
 - leetcode
 
+
+## Friday. Session 5
+
+Knocked out 'Sqrt(x)' on LeetCode. I wanted to practice binary search on it, so I coded it up quickly.
+
+Time spent: 13 minutes
+Links:
+
+- https://leetcode.com/problems/sqrtx/description
+- https://github.com/stay-focused-dev/leetcode/commit/8f18686bc9c9990c4c2e6de01f892d6551f69601
+
+Tags:
+
+- go
+- leetcode
+
