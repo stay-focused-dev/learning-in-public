@@ -1430,3 +1430,19 @@ Tags:
 
 - go
 - leetcode
+
+
+## Sunday. Session 2
+
+Did the daily LeetCode: 'Count Negative Numbers in a Sorted Matrix'. Happy it turned out to be an easy problem. Streak continues.
+
+Time spent: 10 minutes
+Links:
+
+- https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix
+- https://github.com/stay-focused-dev/leetcode/commit/314f89cc2951ee9d7fa0bb808c53e73c0901a97d
+
+Tags:
+
+- go
+- leetcode
