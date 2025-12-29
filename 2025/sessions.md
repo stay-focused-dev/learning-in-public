@@ -1417,3 +1417,16 @@ Tags:
 - go
 - leetcode
 
+## Sunday. Session 1
+
+Participated in LeetCode's Weekly Contest for the first time. Expected to feel pressured (tight time constraints, no help available), and I was definitely nervous beforehand. But once the contest began, I locked in and focused. Solved three problems without any errors. The hardest problem stumped me, but looking at accepted solutions afterward, I learned DP would work—I just can't figure out how to formulate it that way yet. I'm really proud of myself.
+
+Time spent: 90 minutes
+Links:
+
+- https://leetcode.com/contest/weekly-contest-482/
+
+Tags:
+
+- go
+- leetcode
