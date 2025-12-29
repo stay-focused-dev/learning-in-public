@@ -1254,3 +1254,21 @@ Tags:
 
 - go
 - leetcode
+
+
+## Friday. Session 2
+
+Worked on 'Find Minimum in Rotated Sorted Array II'—a hard LeetCode problem. Expected to solve it quickly, but reality had other plans. Struggled with the duplicate numbers the entire time (I wrongly assumed binary search could elegantly skip them). Overcomplicated things, which really slowed me down. Finally got an accepted solution, then asked Claude for a review. Its suggestions were excellent—ended up with clean, elegant code at just 19 lines.
+
+Time spent: 119 minutes
+Links:
+
+- https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/
+- https://github.com/stay-focused-dev/leetcode/commit/5af45f53d435caea9a29de7f1bca1672413bdf4c
+- https://github.com/stay-focused-dev/leetcode/commit/8395cec3c7d6790dd61e4aa88a227a460877d4c1
+
+Tags:
+
+- go
+- leetcode
+
