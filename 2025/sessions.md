@@ -1286,3 +1286,20 @@ Tags:
 
 - go
 - leetcode
+
+
+## Friday. Session 4
+
+Tackled 'Search in Rotated Sorted Array II' on LeetCode. Thought it'd be quick, but getting an accepted submission took forever. I knew exactly what to do: binary search to find the rotation point, then binary search again for the target. Can't figure out why it took me so long though.
+
+Time spent: 52 minutes
+Links:
+
+- https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description
+- https://github.com/stay-focused-dev/leetcode/commit/f470be756a2feac3672c1d1f1fa122f6d5f862e8
+
+Tags:
+
+- go
+- leetcode
+
