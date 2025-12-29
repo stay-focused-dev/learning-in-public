@@ -1272,3 +1272,17 @@ Tags:
 - go
 - leetcode
 
+## Friday. Session 3
+
+Solved 'Find First and Last Position of Element in Sorted Array' on LeetCode. Saw the problem and instantly knew the approach: two binary searches. Got it accepted on first try. This was a milestone moment—binary search is really starting to feel natural now. Though I'm curious why the two searches needed slightly different implementations. 
+
+Time spent: 38 minutes
+Links:
+
+- https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
+- https://github.com/stay-focused-dev/leetcode/commit/0d741e0302fc264ca7aaf347f9777b631beafc56
+
+Tags:
+
+- go
+- leetcode
