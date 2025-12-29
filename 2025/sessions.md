@@ -1351,3 +1351,19 @@ Tags:
 - go
 - leetcode
 
+
+## Friday. Session 8
+
+Did 'Find Peak Element' from LeetCode's binary search problems. The tricky part was figuring out how to frame the problem in binary search terms.
+
+Time spent: 29 minutes
+Links:
+
+- https://leetcode.com/problems/find-peak-element
+- https://github.com/stay-focused-dev/leetcode/commit/da64bb42f6c354728a3fd07482307297e1fb3828
+
+Tags:
+
+- go
+- leetcode
+
