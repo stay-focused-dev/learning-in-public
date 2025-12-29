@@ -1319,3 +1319,19 @@ Tags:
 - go
 - leetcode
 
+
+## Friday. Session 6
+
+Knocked out 'Search a 2D Matrix' on LeetCode.
+
+Time spent: 14 minutes
+Links:
+
+- https://leetcode.com/problems/search-a-2d-matrix/description
+- https://github.com/stay-focused-dev/leetcode/commit/59fe83117388f8990f94d8ddf1ddce29fad09a26
+
+Tags:
+
+- go
+- leetcode
+
