@@ -1474,3 +1474,22 @@ Links:
 Tags:
 
 - diary
+
+
+# Week 53
+
+## Monday. Session 1
+
+Worked on 'Pyramid Transition Matrix'. Knew right away it needed backtracking. I'd done a backtracking problem before (Sudoku solver), so I wasn't going in blind—though I knew it wouldn't be simple. The Sudoku experience paid off though. Took a while to implement, but nailed it on the first submission. Nice confidence boost for my backtracking skills.
+
+Time spent: 73 minutes
+Links:
+
+- https://leetcode.com/problems/pyramid-transition-matrix/description/
+- https://github.com/stay-focused-dev/leetcode/commit/00fa98278b91b1e43c85f54586b17d733a7cf781
+
+Tags:
+
+- go
+- leetcode
+
