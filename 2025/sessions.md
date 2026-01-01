@@ -1601,3 +1601,19 @@ Tags:
 - rust
 - leetcode
 
+
+## Wednesday. Session 3
+
+Decided to keep practicing binary search, so I tackled 'My Calendar I' from that problem set. Took longer than expected because I had to readjust to Rust after spending two weeks in Go.
+
+Time spent: 40 minutes
+Links:
+
+- https://leetcode.com/problems/my-calendar-i/description
+- https://github.com/stay-focused-dev/leetcode/commit/1849e40a83d5c039732b1df75d440fce4f4005cb
+
+Tags:
+
+- rust
+- leetcode
+
