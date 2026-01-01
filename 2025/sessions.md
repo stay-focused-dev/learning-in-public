@@ -1493,3 +1493,19 @@ Tags:
 - go
 - leetcode
 
+
+## Monday. Session 2
+
+which I implemented immediately.
+
+Time spent: 16 minutes
+Links:
+
+ - https://leetcode.com/problems/pyramid-transition-matrix/description/
+ - https://github.com/stay-focused-dev/leetcode/commit/7f238297998c1684e6064d6a6cc55d7a92f95b2c
+
+Tags:
+
+- go
+- leetcode
+
