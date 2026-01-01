@@ -1496,7 +1496,7 @@ Tags:
 
 ## Monday. Session 2
 
-which I implemented immediately.
+I asked Claude to help with 'Pyramid Transition Matrix' refactoring. It spotted some refinements, which I implemented immediately.
 
 Time spent: 16 minutes
 Links:
@@ -1509,3 +1509,19 @@ Tags:
 - go
 - leetcode
 
+
+## Monday. Session 3
+
+Knocked out 'Intersection of Two Arrays' on LeetCode.
+
+Time spent: 9 minutes
+Links:
+
+- https://leetcode.com/problems/intersection-of-two-arrays/description
+- https://github.com/stay-focused-dev/leetcode/commit/879e34489b0a68b48e791c98b75e40aca8d680ef
+
+
+Tags:
+
+- rust
+- leetcode
