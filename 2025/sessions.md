@@ -1525,3 +1525,29 @@ Tags:
 
 - rust
 - leetcode
+
+
+## Monday. Session 4
+
+Finally wrapped up my weekly report. It was demanding, but I genuinely enjoyed it. The reason? I could sense my English steadily improving. Sometimes I write stuff that needs zero corrections or refinements. So satisfying!
+
+Time spent: 84 minutes
+Links:
+
+- https://github.com/stay-focused-dev/learning-in-public/commit/ce154d42d8badeb6b6cc122beb99b32b6aefa0c7
+- https://github.com/stay-focused-dev/learning-in-public/commit/ff10541ba9c901cc96c5bddbcc8a4fc46f3871fe
+- https://github.com/stay-focused-dev/learning-in-public/commit/a30843b60b7ee5fe8d745aa3eecc316993741db1
+- https://github.com/stay-focused-dev/learning-in-public/commit/12733bc58172caee418b0cbcffb2a21bad25ed99
+- https://github.com/stay-focused-dev/learning-in-public/commit/e5336dd946919a4b871b6a9a841570a4980cecac
+- https://github.com/stay-focused-dev/learning-in-public/commit/09b967ee2b20faf0e5f37472c2fadee0e3aa95ec
+- https://github.com/stay-focused-dev/learning-in-public/commit/cae004d17414ecf51410ef4112a4a47031e9dc79
+- https://github.com/stay-focused-dev/learning-in-public/commit/f1220da81b897f72fc1968b52d0b9aa20e4e0b30
+- https://github.com/stay-focused-dev/learning-in-public/commit/bb994023a0ff5a2b2efac2502e808748d5d54e9b
+- https://github.com/stay-focused-dev/learning-in-public/commit/fec949c4d70525741ea824c1dbb4bc1df2d5a697
+- https://github.com/stay-focused-dev/learning-in-public/commit/c764854280a5926d4560b6ee99050652ff1d4f5d
+- https://github.com/stay-focused-dev/learning-in-public/commit/9003f9bc5aeadd518ac583c874c74b6a978deca4
+
+Tags:
+
+- diary
+
