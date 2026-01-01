@@ -1633,3 +1633,20 @@ Tags:
 - rust
 - leetcode
 
+
+## Wednesday. Session 5
+
+After reviewing 'My Calendar I', Claude also suggested BTreeMap or a simple BST. Curious about these approaches, so I asked Claude to explain them and implemented solutions using each.
+
+Time spent: 14 minutes
+Links:
+
+- https://leetcode.com/problems/my-calendar-i/description
+- https://github.com/stay-focused-dev/leetcode/commit/1712ae68f6567bf83682ee0be319cf81c2ba9769
+- https://github.com/stay-focused-dev/leetcode/commit/d065a6fcc3feebc89c146fad6d6f7e434b423a05
+
+Tags:
+
+- rust
+- leetcode
+
