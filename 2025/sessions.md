@@ -1568,3 +1568,19 @@ Tags:
 - rust
 - leetcode
 
+
+## Wednesday. Session 1
+
+Worked on the daily LeetCode: 'Last Day Where You Can Still Cross'. Immediately saw it was a union-find problem. Then while coding, realized binary search applied too. So cool getting to practice both techniques in one problem! Got a runtime error on first submission but fixed it fast and got accepted. Took a bit longer than usual since union-find still isn't automatic for me yet—will keep practicing.
+
+Time spent: 108 minutes
+Links:
+
+- https://leetcode.com/problems/last-day-where-you-can-still-cross/description
+- https://github.com/stay-focused-dev/leetcode/commit/b70740a3ff3d396778da4f71917fa8186b1fe00d
+
+Tags:
+
+- rust
+- leetcode
+
