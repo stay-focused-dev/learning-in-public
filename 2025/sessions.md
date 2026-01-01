@@ -1617,3 +1617,19 @@ Tags:
 - rust
 - leetcode
 
+
+## Wednesday. Session 4
+
+Had Claude review 'My Calendar I'. It suggested some handy stdlib functions like binary_search_by_key. I think you're supposed to avoid these in interviews (right?), but they'd be super useful for competitive programming and real-world code. Definitely planning to learn them.
+
+Time spent: 10 minutes
+Links:
+
+- https://leetcode.com/problems/my-calendar-i/description
+- https://github.com/stay-focused-dev/leetcode/commit/0a015e1c9036123c271ee5fa4ca342ac4dd4397d
+
+Tags:
+
+- rust
+- leetcode
+
