@@ -1650,3 +1650,21 @@ Tags:
 - rust
 - leetcode
 
+
+## Wednesday. Session 6
+
+Continued binary search practice with 'My Calendar II'. Looked easy but took ages to solve. Hit some edge cases and ended up with a solution that didn't even benefit from binary search! Had Claude review it and got a much cleaner approach, which I coded up immediately.
+
+Realized I make way more mistakes when I'm tired (trying to just get something accepted without thinking deeply). I should either rest or refocus properly.
+
+Time spent: 91 minutes
+Links:
+
+- https://leetcode.com/problems/my-calendar-ii/description
+- https://github.com/stay-focused-dev/leetcode/commit/17da0a36c5e04344dd0d82b2cf2f07ec5da3c38e
+- https://github.com/stay-focused-dev/leetcode/commit/a3752446d28d8e305cf567a6d33e5d92b073fbf7
+
+Tags:
+
+- rust
+- leetcode
