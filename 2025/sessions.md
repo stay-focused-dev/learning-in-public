@@ -1584,3 +1584,20 @@ Tags:
 - rust
 - leetcode
 
+
+## Wednesday. Session 2
+
+My 'Last Day Where You Can Still Cross' solution worked but wasn't fast. Explored alternatives and found an elegant approach: union-find without binary search, avoiding repeated data structure recreation by using reverse simulation. Got Claude to walk me through it, implemented it, and boom—so much faster! Won't forget this technique.
+
+Time spent: 41 minutes
+Links:
+
+- https://leetcode.com/problems/last-day-where-you-can-still-cross/description
+- https://github.com/stay-focused-dev/leetcode/commit/b29b322371674bcbc5fe34950c8f63f7069f76a4
+- https://github.com/stay-focused-dev/leetcode/commit/f8e1add82fe45008e46083b1b5621c0cc231b0de
+
+Tags:
+
+- rust
+- leetcode
+
