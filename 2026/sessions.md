@@ -135,3 +135,20 @@ Tags:
 - rust
 - leetcode
 
+## Friday. Session 7
+
+Solved 'House Robber' on LeetCode.
+
+Time spent: 28 minutes
+Links:
+
+- https://leetcode.com/problems/house-robber/description/
+- https://github.com/stay-focused-dev/leetcode/commit/68f2c14797f7e1e4d179d79bbfa2a367daa5dcd3
+- https://github.com/stay-focused-dev/leetcode/commit/d6f9dce4cea6def02b2f4a2f67770777ff390687
+- https://github.com/stay-focused-dev/leetcode/commit/fd5791b66ba79dcc012c07ed2578e6c1f16954be
+
+Tags:
+
+- rust
+- leetcode
+
