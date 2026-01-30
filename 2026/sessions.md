@@ -170,3 +170,21 @@ Tags:
 
 - rust
 - leetcode
+
+
+## Saturday. Session 1
+
+Solved 'Number of Ways to Paint N x 3 Grid' on LeetCode.
+
+Time spent: 47 minutes
+Links:
+
+- https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description
+- https://github.com/stay-focused-dev/leetcode/commit/a5c71c23f7199bd259cfd9288a03e2b0e66b96c3
+
+Tags:
+
+- rust
+- leetcode
+
+
