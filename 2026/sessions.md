@@ -188,3 +188,19 @@ Tags:
 - leetcode
 
 
+## Saturday. Session 2
+
+Refactored 'Number of Ways to Paint N x 3 Grid'.
+
+Time spent: 29 minutes
+Links:
+
+- https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/description/
+- https://github.com/stay-focused-dev/leetcode/commit/2b488d3ceecf092f646b7b751ab0d3cf88a48ea2
+- https://github.com/stay-focused-dev/leetcode/commit/4d323122ed9e065329ca6001a20a3941f49386a8
+
+Tags:
+
+- rust
+- leetcode
+
