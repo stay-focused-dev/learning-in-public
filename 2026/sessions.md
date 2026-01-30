@@ -102,3 +102,36 @@ Tags:
 - rust 
 - leetcode
 
+## Friday. Session 5
+
+Solved 'Valid Perfect Square' on LeetCode.
+
+Time spent: 16 minutes
+Links:
+
+- https://leetcode.com/problems/valid-perfect-square/description/
+- https://github.com/stay-focused-dev/leetcode/commit/d00dcfc51a17b02a0f2cd017115102734c18facf
+- https://github.com/stay-focused-dev/leetcode/commit/5feb4e70900db594c7d7a95c49e0e9e7d15e2c84
+
+Tags:
+
+- rust
+- leetcode
+
+
+## Friday. Session 6
+
+Worked on 'Climbing Stairs' on LeetCode.
+
+Time spent: 21 minutes
+Links:
+
+- https://leetcode.com/problems/climbing-stairs/description/
+- https://github.com/stay-focused-dev/leetcode/commit/5aeb128deee7785bed7469cf100405cc31745118
+- https://github.com/stay-focused-dev/leetcode/commit/adda9cece3e805c76c430df0ac3afcc7ea9e0de0
+
+Tags:
+
+- rust
+- leetcode
+
