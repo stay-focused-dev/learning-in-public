@@ -220,3 +220,18 @@ Tags:
 - rust
 - leetcode
 
+## Sunday. Session 2
+
+Worked on 'Four Divisors' on LeetCode.
+
+Time spent: 32 minutes
+Links:
+
+- https://leetcode.com/problems/four-divisors/description
+- https://github.com/stay-focused-dev/leetcode/commit/ed40bb27e1a3fe07ae9ae42cdb5c91f54385a2df
+- https://github.com/stay-focused-dev/leetcode/commit/ec877131d7dd3a0187d7e43a6af890b17f8e0997
+
+Tags:
+
+- rust
+- leetcode
