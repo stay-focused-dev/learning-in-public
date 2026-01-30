@@ -152,3 +152,21 @@ Tags:
 - rust
 - leetcode
 
+## Friday. Session 8
+
+Worked on 'Coin Change' on LeetCode.
+
+Time spent: 79 minutes
+Links:
+
+- https://leetcode.com/problems/coin-change/description/
+- https://github.com/stay-focused-dev/leetcode/commit/edcade9f9ad8755770f5f35486ce135445bd2023
+- https://github.com/stay-focused-dev/leetcode/commit/4bafdda858863053b5646f894af151b3aa566124
+- https://github.com/stay-focused-dev/leetcode/commit/32f9ca8bb9ce457b85c1061c5e8027517c4bfd47
+- https://github.com/stay-focused-dev/leetcode/commit/c3d3f4d425a5b48e2eb6f65ee09c338d11542e22
+- https://github.com/stay-focused-dev/leetcode/commit/92618a080cb007b96abe23075fa1f53a20f2881b
+
+Tags:
+
+- rust
+- leetcode
