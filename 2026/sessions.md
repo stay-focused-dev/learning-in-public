@@ -72,4 +72,17 @@ Tags:
 - leetcode
 
 
+## Friday. Session 3
 
+Worked on 'Find K Closest Elements' on LeetCode
+
+Time spent: 27 minutes
+Links:
+
+- https://leetcode.com/problems/find-k-closest-elements/description/
+- https://github.com/stay-focused-dev/leetcode/commit/569e80b5b8b5c2ce4264b3aa8aa596ac9398714b
+
+Tags:
+
+- rust 
+- leetcode
