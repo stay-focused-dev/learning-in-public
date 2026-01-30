@@ -204,3 +204,19 @@ Tags:
 - rust
 - leetcode
 
+## Sunday. Session 1
+
+Participated in LeetCode's weekly contest.
+
+Time spent: 40 minutes
+Links:
+
+- https://leetcode.com/contest/weekly-contest-483/
+- https://github.com/stay-focused-dev/leetcode-contest/commit/c1e089b09f390f8d99adf8230085f37199571d4c
+
+
+Tags:
+
+- rust
+- leetcode
+
