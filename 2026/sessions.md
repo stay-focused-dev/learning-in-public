@@ -41,3 +41,19 @@ Tags:
 - diary
 
 
+## Friday. Session 1
+
+Knocked out 'N-Repeated Element in Size 2N Array' on LeetCode.
+
+Time spent: 3 minutes
+Links:
+
+- https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description
+- https://github.com/stay-focused-dev/leetcode/commit/5b3d66e6201b14cf5420fea514d3107da405cfea
+
+Tags:
+
+- rust
+- leetcode
+
+
