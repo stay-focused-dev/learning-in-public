@@ -235,3 +235,22 @@ Tags:
 
 - rust
 - leetcode
+
+
+# Week 2
+
+## Monday. Session 1
+
+Solved 'Maximum Matrix Sum' on LeetCode.
+
+Time spent: 20 minutes
+Links:
+
+- https://leetcode.com/problems/maximum-matrix-sum/description
+- https://github.com/stay-focused-dev/leetcode/commit/57bc326d798da0e219e1b1c98bf31fedc43d47c3
+
+
+Tags:
+
+- go
+- leetcode
