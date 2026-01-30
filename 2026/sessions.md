@@ -56,4 +56,20 @@ Tags:
 - rust
 - leetcode
 
+## Friday. Session 2
+
+Solved 'First Bad Version' on Leetcode.
+
+Time spent: 5 minutes
+Links:
+
+- https://leetcode.com/problems/first-bad-version/description/
+- https://github.com/stay-focused-dev/leetcode/commit/e9e78a1ad2669001eaa4241cfe28cbc502ec9782
+
+Tags:
+
+- rust
+- leetcode
+
+
 
