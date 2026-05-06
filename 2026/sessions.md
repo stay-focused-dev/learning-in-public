@@ -407,3 +407,18 @@ LeetCode:
 
 - Difficulty: easy
 - Approaches: array
+
+## Wednesday. Session 11
+
+Worked on 'Max Consecutive Ones' on LeetCode.
+
+Time spent: 13 minutes
+Links:
+
+- https://leetcode.com/problems/max-consecutive-ones/description/
+- https://github.com/stay-focused-dev/leetcode/commit/bc01af2de52cdece1033a42e1000c7b0043ac13e
+
+LeetCode:
+
+- Difficulty: easy
+- Approaches: array
