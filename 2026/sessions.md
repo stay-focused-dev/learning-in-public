@@ -271,3 +271,18 @@ LeetCode:
 
 - Difficulty: easy
 - Approaches: two pointers
+
+## Wednesday. Session 2
+
+Knocked out 'Remove Element' on LeetCode.
+
+Time spent: 4 minutes
+Links:
+
+- https://leetcode.com/problems/remove-element/
+- https://github.com/stay-focused-dev/leetcode/commit/e4bddee179aa082276fde3cb21a565869cccf2f7
+
+LeetCode:
+
+- Difficulty: easy
+- Approaches: two pointers
