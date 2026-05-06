@@ -317,3 +317,18 @@ LeetCode:
 
 - Difficulty: easy
 - Approaches: two pointers
+
+## Wednesday. Session 5
+
+Knocked out 'Move Zeroes' on LeetCode.
+
+Time spent: 8 minutes
+Links:
+
+- https://leetcode.com/problems/move-zeroes/
+- https://github.com/stay-focused-dev/leetcode/commit/5266a8ef427c152870e21e856c57524be11ef6fb
+
+LeetCode:
+
+- Difficulty: easy
+- Approaches: two pointers
