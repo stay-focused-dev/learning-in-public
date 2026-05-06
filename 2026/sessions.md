@@ -362,3 +362,19 @@ LeetCode:
 
 - Difficulty: medium
 - Approaches: two pointers
+
+
+## Wednesday. Session 8
+
+Knocked out 'Sort Colors' on LeetCode.
+
+Time spent: 6 minutes
+Links:
+
+- https://leetcode.com/problems/sort-colors/
+- https://github.com/stay-focused-dev/leetcode/commit/aa4abbb0c9b05027c513eb0fcf020697148e5b56
+
+LeetCode:
+
+- Difficulty: medium
+- Approaches: counting sort
