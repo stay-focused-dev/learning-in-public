@@ -389,5 +389,21 @@ Links:
 - https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 - https://github.com/stay-focused-dev/leetcode/commit/9b57d03c75942d0885f51fbdfbd583bb1a22fb20
 
+LeetCode:
+
 - Difficulty: medium
 - Approaches: two pointers
+
+## Wednesday. Session 10
+
+Knocked out 'Plus One' on LeetCode.
+
+Time spent: 7 minutes
+Links:
+
+- https://leetcode.com/problems/plus-one/description/
+
+LeetCode:
+
+- Difficulty: easy
+- Approaches: array
