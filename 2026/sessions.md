@@ -301,3 +301,19 @@ LeetCode:
 
 - Difficulty: easy
 - Approaches: two pointers
+
+
+## Wednesday. Session 4
+
+I solved the LeetCode problem 'Valid Palindrome'. I had a solution in mind right away, but I forgot how to write switch/case statements for ranges ('a' <= c && c <= 'z' instead of 'a'..'z'), so I spent some extra time trying to find the correct syntax.
+
+Time spent: 15 minutes
+Links:
+
+- https://leetcode.com/problems/valid-palindrome/
+- https://github.com/stay-focused-dev/leetcode/commit/916dee5292b3dd65c1d61477280723a80966fd1d
+
+LeetCode:
+
+- Difficulty: easy
+- Approaches: two pointers
