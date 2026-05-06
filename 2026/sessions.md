@@ -254,3 +254,20 @@ Tags:
 
 - go
 - leetcode
+
+# Week 19
+
+## Wednesday. Session 1
+
+Solved 'Remove Duplicates from Sorted Array' on LeetCode. I hadn't practiced LeetCode problems for a few months, so I was a bit nervous. I also decided to use interview.cups.online to simulate the interview process (in real interviews, you typically code in a plain editor rather than an IDE, so this is closer to the real experience).
+
+Time spent: 9 minutes
+Links:
+
+- https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+- https://github.com/stay-focused-dev/leetcode/commit/2195769748c0ac5bd66a21f30047740d4826085a
+
+LeetCode:
+
+- Difficulty: easy
+- Approaches: two pointers
