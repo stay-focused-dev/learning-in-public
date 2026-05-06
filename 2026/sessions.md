@@ -422,3 +422,20 @@ LeetCode:
 
 - Difficulty: easy
 - Approaches: array
+
+## Wednesday. Session 12
+
+I finally cracked one of LeetCode's medium problems — 'Next Permutation'. I didn't know the algorithm, so I spent a lot of extra time trying to figure it out. Without success! Then I asked Google, and it told me the algo, which I implemented right away. Once again, I struggled with duplicates. 
+I got a working solution that passed all the tests. Then I asked Claude to help me with code style, and it suggested some solid improvements.
+
+Time spent: 55 minutes
+Links:
+
+- https://leetcode.com/problems/next-permutation/description/
+- https://github.com/stay-focused-dev/leetcode/commit/614c18cb4e53e8c4a2037b44fad778125fa9e158
+- https://github.com/stay-focused-dev/leetcode/commit/c011127a59a2f56a4fb7a24ab0e42ab0c7c0bcee
+
+LeetCode:
+
+- Difficulty: medium
+- Approaches: next permutation
