@@ -378,3 +378,16 @@ LeetCode:
 
 - Difficulty: medium
 - Approaches: counting sort
+
+## Wednesday. Session 9
+
+Worked on the 'Remove Duplicates from Sorted Array II' problem on LeetCode. Once again, duplicate handling tripped me up. Lesson learned: don't modify items that might still be needed in later iterations.
+
+Time spent: 18 minutes
+Links:
+
+- https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+- https://github.com/stay-focused-dev/leetcode/commit/9b57d03c75942d0885f51fbdfbd583bb1a22fb20
+
+- Difficulty: medium
+- Approaches: two pointers
