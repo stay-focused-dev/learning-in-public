@@ -347,3 +347,18 @@ LeetCode:
 
 - Difficulty: medium
 - Approaches: two pointers
+
+
+## Wednesday. Session 7
+
+Worked on the '3Sum' problem on LeetCode. I'd solved this one before, so I had a solution in mind immediately. But the duplicates made things harder — I spent a lot of extra time getting my solution to work. Note to self: problems like this have two parts that require attention — the two-pointer algorithm and duplicate handling.
+
+Time spent: 31 minutes
+Links:
+
+- https://leetcode.com/problems/3sum/
+
+LeetCode:
+
+- Difficulty: medium
+- Approaches: two pointers
