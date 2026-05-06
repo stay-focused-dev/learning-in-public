@@ -332,3 +332,18 @@ LeetCode:
 
 - Difficulty: easy
 - Approaches: two pointers
+
+## Wednesday. Session 6
+
+Worked on 'Container With Most Water' on LeetCode. The problem is rated medium difficulty, but I'd solved this one before, so it was very easy to implement a working solution.
+
+Time spent: 6 minutes
+Links:
+
+- https://leetcode.com/problems/container-with-most-water/
+- https://github.com/stay-focused-dev/leetcode/commit/277bb31151d7b8f64e62383941fd5e9144638000
+
+LeetCode:
+
+- Difficulty: medium
+- Approaches: two pointers
