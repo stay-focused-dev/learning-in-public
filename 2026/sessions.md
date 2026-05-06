@@ -286,3 +286,18 @@ LeetCode:
 
 - Difficulty: easy
 - Approaches: two pointers
+
+## Wednesday. Session 3
+
+Worked on 'Merge Sorted Array' on LeetCode. I was confused at first because I knew the problem was supposed to be easy, but I couldn't find a solution right away. Then I realized I had to work from the end of the arrays rather than the beginning. After that, things got easier. 
+
+Time spent: 16 minutes
+Links:
+
+- https://leetcode.com/problems/merge-sorted-array/
+- https://github.com/stay-focused-dev/leetcode/commit/5c94409df75fa3fddce413f96b99281db7d82b05
+
+LeetCode:
+
+- Difficulty: easy
+- Approaches: two pointers
