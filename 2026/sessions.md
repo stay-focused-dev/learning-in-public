@@ -439,3 +439,18 @@ LeetCode:
 
 - Difficulty: medium
 - Approaches: next permutation
+
+## Thursday. Session 1
+
+Knocked out 'Reverse String' on LeetCode
+
+Time spent: 3 minutes
+Links:
+
+- https://leetcode.com/problems/reverse-string/
+- https://github.com/stay-focused-dev/leetcode/commit/0a03ed1bb8b7c3f69893e263a6dde1a934cf1675
+
+LeetCode:
+
+- Difficulty: easy
+- Approaches: array
