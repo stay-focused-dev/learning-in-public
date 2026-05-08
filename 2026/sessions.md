@@ -564,3 +564,17 @@ LeetCode:
 
 - Difficulty: easy
 - Approaches: two pointers
+
+
+## Friday. Session 8
+
+I kept working on my 'EVE Tools' project. The SDE (short for Static Data Export) is usually published by developers on their website in different formats. I use the SQLite version. These files are updated occasionally, so I need to download the latest version. But a downloaded file could be corrupted or incompatible with my code, so I need to verify that my code can work with the new version. Today, my task was to implement SDE validation. I checked the existence of certain tables and their structure, and I checked the count of specific items (I expect certain tables to contain at least N entries). This task looked simple and easy to implement, but it required a lot of code — more than 560 lines — and, surprisingly, a lot of time to do it properly.
+
+Links:
+
+- https://github.com/stay-focused-dev/go-eve-tools/commit/0e83ac4dd2c3ecea267bddd447fed0ef65c2eb68
+
+Tags:
+
+- go
+- pet-project
