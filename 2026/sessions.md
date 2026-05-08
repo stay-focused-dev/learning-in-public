@@ -484,3 +484,19 @@ LeetCode:
 
 - Difficulty: medium
 - Approaches: matrix
+
+
+## Friday. Session 3
+
+Knocked out 'Reverse Vowels of a String' on LeetCode.
+
+Time spent: 7 minutes
+Links:
+
+- https://leetcode.com/problems/reverse-vowels-of-a-string
+- https://github.com/stay-focused-dev/leetcode/commit/2239317206bc77ee10358359dca94310407024d9
+
+LeetCode:
+
+- Difficulty: easy
+- Approaches: two pointers
