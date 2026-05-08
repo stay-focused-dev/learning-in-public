@@ -515,3 +515,20 @@ LeetCode:
 
 - Difficulty: easy
 - Approaches: two pointers
+
+
+## Friday. Session 5
+
+Worked on 'Rotate Array' on LeetCode. There's a follow-up in the description: try to come up with as many solutions as you can. But I decided to find a solution with O(1) extra space and call it done.
+
+Time spent: 5 minutes
+
+Links:
+
+- https://leetcode.com/problems/rotate-array/description/
+- https://github.com/stay-focused-dev/leetcode/commit/321a439caa0fdc8f12b1eda55693d2b9a1804fd6
+
+LeetCode:
+
+- Difficulty: medium
+- Approaches: array
