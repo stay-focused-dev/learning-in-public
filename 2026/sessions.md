@@ -468,3 +468,19 @@ Tags:
 
 - go
 - pet-project
+
+
+## Friday. Session 2
+
+Worked on 'Rotate Image' on LeetCode. I figured out a solution with a 4-way swap. I wrote the algorithm on paper and then coded it up. I don't understand why problems like this take me so long. Afterwards, I read the discussion and saw that there was a solution using transpose and reverse primitives. I'd like to try that approach next time.
+
+Time spent: 26 minutes
+Links:
+
+- https://leetcode.com/problems/rotate-image/description/
+- https://github.com/stay-focused-dev/leetcode/commit/2d0c9c6abd4737a93f7d3f0df22dc43d53b2afef
+
+LeetCode:
+
+- Difficulty: medium
+- Approaches: matrix
