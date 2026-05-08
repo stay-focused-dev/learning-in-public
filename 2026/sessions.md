@@ -454,3 +454,17 @@ LeetCode:
 
 - Difficulty: easy
 - Approaches: array
+
+
+## Friday. Session 1
+
+Got back to my pet project 'EVE Tools' recently. I'd previously started a draft in Rust, but I decided to start over in Go — partly because I want to learn the language properly. The big difference this round: I spent a ton of time planning and brainstorming with Claude, using Umputun's 'brainstorm' skill. After about 4 hours, I came up with a plan containing 17 phases, with a few tasks per phase: project foundation, database layer, rate limiter and ESI client, and so on. That was a few weeks ago. Honestly, I could have just handed the plan to something like Ralphex and let an LLM do the work — but the whole point is to practice Go myself. I want to learn how to write idiomatic code and structure projects properly. The foundation has to come first, before I can move on to anything advanced. This morning, I implemented task 6.1: 'SDE download and version management'.
+
+Links:
+
+- https://github.com/stay-focused-dev/go-eve-tools/commit/cc14c3e9b776006575cc9a2bb81d3bb7d78e21c7
+
+Tags:
+
+- go
+- pet-project
