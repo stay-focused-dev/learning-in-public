@@ -500,3 +500,18 @@ LeetCode:
 
 - Difficulty: easy
 - Approaches: two pointers
+
+## Friday. Session 4
+
+Knocked out 'Is Subseqence' on LeetCode.
+
+Time spent: 6 minutes
+Links:
+
+- https://leetcode.com/problems/is-subsequence/description/
+- https://github.com/stay-focused-dev/leetcode/commit/32597cbafb8e9a6bccb78d4d018b998c88ce6bfc
+
+LeetCode:
+
+- Difficulty: easy
+- Approaches: two pointers
