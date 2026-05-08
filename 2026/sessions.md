@@ -532,3 +532,20 @@ LeetCode:
 
 - Difficulty: medium
 - Approaches: array
+
+
+## Friday. Session 6
+
+I tackled 'Spiral Matrix' on LeetCode. On paper, the algorithm was simple — but the devil was in the details. 
+
+Time spent: 40 minutes
+
+Links:
+
+- https://leetcode.com/problems/spiral-matrix/description/
+- https://github.com/stay-focused-dev/leetcode/commit/ffb60ca32e83f50dde7d8afa8d1d03f0db5f0e39
+
+LeetCode:
+
+- Difficulty: medium
+- Approaches: matrix
