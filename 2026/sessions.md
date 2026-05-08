@@ -539,7 +539,6 @@ LeetCode:
 I tackled 'Spiral Matrix' on LeetCode. On paper, the algorithm was simple — but the devil was in the details. 
 
 Time spent: 40 minutes
-
 Links:
 
 - https://leetcode.com/problems/spiral-matrix/description/
@@ -549,3 +548,19 @@ LeetCode:
 
 - Difficulty: medium
 - Approaches: matrix
+
+
+## Friday. Session 7
+
+Worked on 'Valid Palindrome II' on LeetCode. I wasted a lot of time trying to prove that whenever we hit a mismatch, we could just pick one of the two options and be done with it. That turned out to be wrong (look at the string 'abbab': 'abba' is a palindrome, 'bbab' is not). So I switched to a more straightforward approach that simply tries both.
+
+Time spent: 20 minutes
+Links:
+
+- https://leetcode.com/problems/valid-palindrome-ii/description/
+- https://github.com/stay-focused-dev/leetcode/commit/8989bf9dc8277c6d1e2d9662ab4c44c1661d3440
+
+LeetCode:
+
+- Difficulty: easy
+- Approaches: two pointers
