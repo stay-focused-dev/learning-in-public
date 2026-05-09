@@ -626,3 +626,18 @@ LeetCode:
 
 - Difficulty: medium
 - Approaches: array
+
+## Saturday. Session 4
+
+Revisited '3Sum Closest' on LeetCode. Even though I remembered the approach from before, getting the implementation right took much longer than I expected.
+
+Time spent: 22 minutes
+Links:
+
+- https://leetcode.com/problems/3sum-closest/description/
+- https://github.com/stay-focused-dev/leetcode/commit/32d78be26d52360d8145934240bd9a81e26b44a7
+
+LeetCode:
+
+- Difficulty: medium
+- Approaches: two pointers
