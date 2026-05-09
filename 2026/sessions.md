@@ -594,3 +594,19 @@ LeetCode:
 
 - Difficulty: easy
 - Approaches: two pointers
+
+
+## Saturday. Session 2
+
+Knocked out 'Pascals Triangle' on LeetCode.
+
+Time spent: 6 minutes
+Links:
+
+- https://leetcode.com/problems/pascals-triangle/description/
+- https://github.com/stay-focused-dev/leetcode/commit/dc4c99f73ec59bc6987e09839a4c5d104c7b51e3
+
+LeetCode:
+
+- Difficulty: easy
+- Approaches: array
