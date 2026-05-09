@@ -670,3 +670,19 @@ LeetCode:
 
 - Difficulty: medium
 - Approaches: two pointers
+
+
+## Saturday. Session 7
+
+Continued work on 'EVE Tools' today, focusing on task 6.3: SDE (Static Data Export) queries. Some of the data the project needs can only be obtained from SDE, and since I'm using SDE anyway, I can skip API calls for large chunks of data. The task was easy to implement, but I want to share one fascinating thing I discovered along the way.
+One function needed to map a marketGroupID to its full path — like 'Ships / Frigates / Standard Frigates' — by walking up parent groups. I wrote a straightforward loop: fetch the row, follow parentGroupID, repeat. It worked. But when I asked Claude to review my code, it suggested `WITH RECURSIVE` — one query, all the data, done. Definitely adding this to my toolkit.
+ 
+
+Links:
+
+- https://github.com/stay-focused-dev/go-eve-tools/commit/a54336dab0d26ce18b703da8cd3c5d176436ef57
+
+Tags:
+
+- go
+- pet-project
