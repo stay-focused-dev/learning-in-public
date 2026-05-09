@@ -655,3 +655,18 @@ LeetCode:
 
 - Difficulty: medium
 - Approaches: two pointers
+
+
+## Saturday. Session 6
+
+Worked on '4Sum' on LeetCode. I knew exactly how to approach it, but handling duplicates tripped me up for a while.
+
+Time spent: 24 minutes
+Links:
+
+- https://leetcode.com/problems/4sum/description/
+
+LeetCode:
+
+- Difficulty: medium
+- Approaches: two pointers
