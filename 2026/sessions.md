@@ -641,3 +641,17 @@ LeetCode:
 
 - Difficulty: medium
 - Approaches: two pointers
+
+## Saturday. Session 5
+
+Knocked out 'Two Sum II - Input Array Is Sorted' on LeetCode.
+
+Time spent: 5 minutes
+Links:
+
+- https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+
+LeetCode:
+
+- Difficulty: medium
+- Approaches: two pointers
