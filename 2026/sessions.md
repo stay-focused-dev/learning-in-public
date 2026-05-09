@@ -600,7 +600,7 @@ LeetCode:
 
 Knocked out 'Pascals Triangle' on LeetCode.
 
-Time spent: 6 minutes
+Time spent: 8 minutes
 Links:
 
 - https://leetcode.com/problems/pascals-triangle/description/
@@ -609,4 +609,20 @@ Links:
 LeetCode:
 
 - Difficulty: easy
+- Approaches: array
+
+
+## Saturday. Session 3
+
+Tackled the LeetCode problem 'Product of Array Except Self'.
+
+Time spent: 31 minutes
+Links:
+
+- https://leetcode.com/problems/product-of-array-except-self/description/
+- https://github.com/stay-focused-dev/leetcode/commit/425168aaf5fff1e0f9bcbbe046681991cdd65e59
+
+LeetCode:
+
+- Difficulty: medium
 - Approaches: array
