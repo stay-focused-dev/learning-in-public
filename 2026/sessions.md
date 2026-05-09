@@ -578,3 +578,19 @@ Tags:
 
 - go
 - pet-project
+
+
+## Saturday. Session 1
+
+Knocked out 'Squares of a Sorted Array' on LeetCode.
+
+Time spent: 6 minutes
+Links:
+
+- https://leetcode.com/problems/squares-of-a-sorted-array/
+- https://github.com/stay-focused-dev/leetcode/commit/81deb582a1ed75024bffdda8a0fb0cf95436dd50
+
+LeetCode:
+
+- Difficulty: easy
+- Approaches: two pointers
