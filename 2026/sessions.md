@@ -686,3 +686,18 @@ Tags:
 
 - go
 - pet-project
+
+
+## Saturday. Session 8
+
+After completing task 6.3 on 'EVE Tools', I realized there were some inconsistencies in the code I'd written in Phase 6. I asked Claude to review all the SDE code, and it suggested some solid improvements, which I implemented right away.
+
+Links:
+
+- https://github.com/stay-focused-dev/go-eve-tools/commit/07c4ae2d13d8ea02d6d92e5396df12f605f2b673
+- https://github.com/stay-focused-dev/go-eve-tools/commit/cb1115821307dced0d1d6b13c783ee7973971823
+
+Tags:
+
+- go
+- pet-project
